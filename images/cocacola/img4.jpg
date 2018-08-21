@@ -1,0 +1,2599 @@
+<!doctype html>
+
+<html data-show-bordered-box="false" data-gigya-api="3_nzexI7LopRJ49iPkiUBzsSQWrMXeTtgqVgM7-p7Sl86cZSxVPtjnmVgaYT2wfwWy" data-captcha-api="6Ldh_hQUAAAAAHEVWPm5Zws143EljE-U5bPELrW9" class="theme-bg-page theme-bg-main no-js " lang="ja-JP" >
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>コカ・コーラ　ジャーニー: The Coca-Cola Company</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="コカ･コーラ ジャーニーは、日本コカ･コーラ株式会社の製品情報や企業情報だけでなく、コカ･コーラ社が持つ多様な情報をストーリー仕立てで毎週更新してお届けするウェブマガジン型の企業サイトです。">
+    <script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
+
+
+
+<script type="application/ld+json">
+                "ParentOrganization":{"@type" :"Corporation" ,"name" :"The <nobr>Coca-Cola</nobr> Company","url":"http://www.coca-colacompany.com"}</script>
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="last-published-date" content="2018-08-14">
+    <meta property="fb:app_id" content="401050593296931">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Coca-Cola Company">
+<meta property="og:title" content="コカ・コーラ　ジャーニー">
+	<meta property="og:description" content="コカ・コーラ ジャーニーは、日本コカ・コーラの製品情報や企業情報だけでなく、ソーシャルメディアで発信した情報をキュレーションし、コカ・コーラにまつわるストーリーを発信するデジタルマガジンです。">
+	<meta property="og:url" content="https://www.cocacola.co.jp">
+<meta name="google-site-verification" content="2Sq5Q0rvZnoi2Te5JwJwIPrmA1rk8RlgG6TZOy4mkbo">
+<link rel="canonical" href="https://www.cocacola.co.jp">
+            <link rel="shortcut icon" href="https://www.cocacola.co.jp/content/dam/journey/au/en/private/save/coke-favicon.png">
+            <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/content/dam/journey/au/en/private/icons/stay-n-sip-culture.jpg"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/content/dam/journey/au/en/private/icons/stay-n-sip-culture.jpg"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/content/dam/journey/au/en/private/icons/stay-n-sip-culture.jpg"/>
+<meta name="apple-mobile-web-app-title" content="Journey">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">    
+<link rel="stylesheet" href="/etc/designs/journey/main.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/libs/components/all.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/libs/components/extra.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/theme/default.min.css" type="text/css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,300" type="text/css">
+    <script type="text/javascript">if(screen.width<=480){document.documentElement.className+=" mobile";}try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript" src="/etc/designs/journey/libs/modernizr.min.js"></script>
+<style type="text/css">
+.theme-bg-main {
+
+}
+</style>
+
+<script>
+                function copyToClipboard() {
+                    try {
+                        selectElementText(document.getElementById("copyToClipboard"));
+                        var successful = document.execCommand('copy');
+                        var msg = successful ? 'successful' : 'unsuccessful';
+                        console.log('Copying text command was ' + msg);
+                    } catch (err) {
+                        console.log('Oops, unable to copy');
+                    }
+                }
+
+                function selectElementText(el) {
+                    var win = window;
+                    var doc = win.document,
+                        sel, range;
+                    if (win.getSelection && doc.createRange) {
+                        sel = win.getSelection();
+                        range = doc.createRange();
+                        range.selectNodeContents(el);
+                        sel.removeAllRanges();
+                        sel.addRange(range);
+                    } else if (doc.body.createTextRange) {
+                        range = doc.body.createTextRange();
+                        range.moveToElementText(el);
+                        range.select();
+                    }
+                }
+            </script>
+</head><!--
+         __                              ___   __        .ama     ,
+      ,d888a                          ,d88888888888ba.  ,88"I)   d
+     a88']8i                         a88".8"8)   `"8888:88  " _a8'
+   .d8P' PP                        .d8P'.8  d)      "8:88:baad8P'
+  ,d8P' ,ama,   .aa,  .ama.g ,mmm  d8P' 8  .8'        88):888P'
+ ,d88' d8[ "8..a8"88 ,8I"88[ I88' d88   ]IaI"        d8[
+ a88' ]P "bm8mP8'(8'.8I  8[      d88'    `"         .88
+,88I ]P[  .I'.8     88' ,8' I[  ,88P ,ama    ,ama,  d8[  .ama.g
+[88' I8, .I' ]8,  ,88B ,d8 aI   (88',88"8)  d8[ "8. 88 ,8I"88[
+]88  `8888"  '8888" "88P"8m"    I88 88[ 8[ ]P "bm8m88[.8I  8[
+]88,          _,,aaaaaa,_       I88 8"  8 ]P[  .I' 88 88' ,8' I[
+`888a,.  ,aadd88888888888bma.   )88,  ,]I I8, .I' )88a8B ,d8 aI
+  "888888PP"'        `8""""""8   "888PP'  `8888"  `88P"88P"8m"
+
+Normand Veillieux
+
+-->
+<!-- Platform Version: 4.7.2 -->
+<!-- Vanity Map Version: 4.7.2 -->
+<!-- CloudSearch Version: 4.7.2 -->
+<!-- Crosslinker Version:  -->
+<!-- Video Ingestion Version:  -->
+<!-- Journey Version: 4.7.2 -->
+
+<body itemscope itemtype="http://schema.org/WebPage" data-date-format="yyyy/MM/dd" data-vanity-paths='' data-vanity-url="" data-lambda-endpoint="" data-locale="jp_ja" data-lambda-endpoint-cloudsearchrecords="https://uc8sgmjzag.execute-api.us-east-1.amazonaws.com/prod/getCloudSearchRecords" data-author-mode="false" data-current-page-path="" data-awscloudendpoint="https://rif2f39i2m.execute-api.us-east-1.amazonaws.com" data-awsregion="us-east-1" data-awsversion="beta">
+ 
+       <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBX79T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBX79T');</script>
+<!-- End Google Tag Manager --> 
+<div id="wrapper" data-role="page">
+       <div class="authorWarning">
+             <p class="warningIcon">
+                    <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+             </p>
+             <div class="vanityPathsList"></div>
+       </div>
+ 
+       <div class="RegionPulldown"><!--googleoff: all-->
+<header id="global-header" class="has-packages ">
+	<section id="global-hat" class="clearfix">
+		<a id="mobile-menu"><i class="icon-reorder" aria-hidden="true"></i></a>
+		<div class="vertically-centered">
+			<a id="mobile-logo" href="/homepage">
+				<img data-src='{
+							"desktop":"/content/dam/journey/jp/ja/private/save/coca-cola-journey-desktop.png",
+							"tablet":"/content/dam/journey/jp/ja/private/save/coca-cola-journey-tablet.png",
+							"mobile":"/content/dam/journey/jp/ja/private/save/coca-cola-journey.png"
+						}' data-dimensions='{
+							"desktop":"1020_105",
+							"tablet":"760_105",
+							"mobile":"185_40"
+						}' src="/content/dam/journey/jp/ja/private/save/coca-cola-journey.png" alt="Go to Coca-Cola Journey Homepage" class="hidden horizontally-centered"/>
+				</a>
+			</div>
+  	</section>
+
+	<section id="global-menu-items">
+		<div id="header-container" role="navigation" aria-label="global_menu">
+			<div class="trail RegionalCountrySelector parbase">
+
+
+
+    <div id="regional-country-selector" class="sub-nav col col2 not-selectable">
+        <ul class="link-list">
+            <li class="showMap link-list-item vertically-centered sub-menu-wrapper">
+                <a class="sub-menu-link">Country (Japan) <span class="region-selected"></span><i class="icon-caret-down" aria-hidden="true"></i><span class="sr-only">Country (Japan)</span></a>
+            </li>
+        </ul>
+        <input type="hidden" id="isfrontPageTemplate" value="true" />
+        <input type="hidden" id="isunbottledTemplate" value="false" />
+    </div>
+    <div class="country-sel-map hide">
+        <div class="regions-container">
+            <ul class="regions">
+            
+              <li class="regionLabel"><a data-region-name="africa">アフリカ大陸</a>
+                <ul class="sites">
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="africa" href="https://www.coca-colaafrica.com/" target="_blank">アフリカ大陸</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="africa" href="https://www.coca-colaafrique.com/" target="_blank">Africa (French)</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="africa" href="https://fr.coca-colamaroc.ma" target="_blank">モロッコ王国</a>
+						
+						
+                  </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="regionLabel"><a data-region-name="asia-pacific">アジア太平洋</a>
+                <ul class="sites">
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-colajourney.com.au/" target="_blank">オーストラリア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-cola.com.cn/" target="_blank">中華人民共和国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-cola.hk/" target="_blank">Hong Kong</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-colaindia.com/" target="_blank">India</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.cocacola.co.id" target="_blank">Indonesia (Bahasa Indonesia)</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://en.cocacola.co.id" target="_blank">Indonesia (English)</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.cocacola.co.jp" target="_blank">日本</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-cola.com.my/" target="_blank">Malaysia (English)</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://bm.coca-cola.com.my" target="_blank">Malaysia (Malay)</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-colajourney.co.nz/" target="_blank">ニュージーランド</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-cola.com.sg/" target="_blank">シンガポール</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.coca-colajourney.co.kr" target="_blank">韓国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://en.cocacolavietnam.com/" target="_blank">Vietnam (English)</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="asia-pacific" href="https://www.cocacolavietnam.com/" target="_blank">Vietnam (Vietnamese)</a>
+						
+						
+                  </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="regionLabel"><a data-region-name="eurasia">ユーラシア大陸</a>
+                <ul class="sites">
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="eurasia" href="https://ar.coca-colaarabia.com/" target="_blank">中東（アラビア語）</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="eurasia" href="https://en.coca-colaarabia.com/" target="_blank">中東（英語）</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="eurasia" href="https://www.coca-colajourney.com.pk/" target="_blank">パキスタン・イスラム共和国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="eurasia" href="https://ur.coca-colajourney.com.pk/" target="_blank">パキスタン・イスラム共和国</a>
+						
+						
+                  </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="regionLabel"><a data-region-name="europe">ヨーロッパ大陸</a>
+                <ul class="sites">
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola-oesterreich.at/" target="_blank">オーストリア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://nl.cocacolabelgium.be/" target="_blank">ベルギー（オランダ語）</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://fr.cocacolabelgium.be/" target="_blank">ベルギー（フランス語）</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.bg/" target="_blank">ブルガリア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.dk/" target="_blank">デンマーク</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.fi/" target="_blank">フィンランド</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola-france.fr/" target="_blank">フランス共和国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola-deutschland.de/" target="_blank">ドイツ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.co.uk" target="_blank">英国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.hu/" target="_blank">ハンガリー</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.ie/" target="_blank">アイルランド</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-colaitalia.it/" target="_blank">イタリア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.cocacolanederland.nl/" target="_blank">オランダ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.no/" target="_blank">ノルウェー</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.cocacolaportugal.pt/" target="_blank">ポルトガル</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.cocacola.com.pl/" target="_blank">ポーランド</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-colarussia.ru" target="_blank">ロシア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-colasrbija.rs/" target="_blank">セルビア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.cocacolaespana.es/" target="_blank">スペイン</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.se/" target="_blank">スウェーデン</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-cola.ch" target="_blank">スイス</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="europe" href="https://www.coca-colaukraine.com/" target="_blank">ウクライナ</a>
+						
+						
+                  </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="regionLabel"><a data-region-name="latin-america">南アメリカ大陸</a>
+                <ul class="sites">
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.cocacoladeargentina.com.ar" target="_blank">アルゼンチン</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.coca-coladebolivia.com.bo" target="_blank">ボリビア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.cocacolabrasil.com.br/" target="_blank">ブラジル</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.cocacoladechile.cl/" target="_blank">チリ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="co">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.co.html" target="_blank">コロンビア</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="cr">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.cr.html" target="_blank">コスタリカ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="do">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.do.html" target="_blank">ドミニカ共和国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="ec">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.ec.html" target="_blank">エクアドル</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="sv">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.sv.html" target="_blank">エルサルバドル</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="gt">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.gt.html" target="_blank">グアテマラ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="hn">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.hn.html" target="_blank">ホンジュラス</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.coca-colamexico.com.mx/" target="_blank">メキシコ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="ni">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.ni.html" target="_blank">ニカラグア共和国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="pa">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.pa.html" target="_blank">パナマ共和国</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.coca-coladeparaguay.com.py/" target="_blank">パラグアイ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.cocacoladeperu.com.pe" target="_blank">ペルー</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://www.coca-coladeuruguay.com.uy/" target="_blank">ウルグアイ</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="ve">
+                      	
+							<a class="sitelink" data-region-name="latin-america" href="https://journey.coca-cola.com/homepage.ve.html" target="_blank">ベネズエラ・ボリバル</a>
+						
+						
+                  </li>
+                  
+                </ul>
+              </li>
+            
+              <li class="regionLabel"><a data-region-name="north-america">北アメリカ大陸</a>
+                <ul class="sites">
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="north-america" href="https://www.coca-colacompany.com" target="_blank">グローバルサイト　(アメリカ）</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="north-america" href="https://www.coca-cola.ca" target="_blank">カナダ（英語）</a>
+						
+						
+                  </li>
+                  
+                  <li data-regional-country-code="">
+                      	
+							<a class="sitelink" data-region-name="north-america" href="https://fr.coca-cola.ca" target="_blank">カナダ（フランス語）</a>
+						
+						
+                  </li>
+                  
+                </ul>
+              </li>
+            
+            </ul>            
+        </div>
+        <div class="map-container">
+                   <img data-src='{
+           "desktop":"../../../../../../etc/designs/journey/main/images/regional-map-desktop1.png",
+           "tablet":"../../../../../../etc/designs/journey/main/images/regional-map-desktop.png"}' src="../../../../../../etc/designs/journey/main/images/regional-map-desktop1.png" alt="World map">
+             <div class="overlay" data-class-region=""></div>
+        </div>           
+    </div>  
+    <div class="desktop-tablet-sub-menu" id="js-regional-country-menu">
+        <div class="content-bounds">
+            <ul class="section-column">
+                <li class="primary">
+                    <a>Country (Japan) <span class="region-selected"></span></a>
+                </li>
+            </ul>
+        </div>
+    </div>    
+
+
+</div>
+<div class="flyout parbase CorporateFlyout"><div class="sub-nav col col1 not-selectable">
+    <ul class="link-list">
+      <div class="Nav"><li class="link-list-item vertically-centered">
+    <a href="https://secure.cocacola.jp/" id="investors-link" target="_blank">
+	<span itemprop="name" data-title='{"desktop":"コカ・コーラ サイト","tablet":"コカ・コーラ サイト","mobile":"コカ・コーラ サイト"}'>コカ・コーラ サイト</span>
+    </a>
+</li>
+    <li class="link-list-item vertically-centered">
+    <span class="bar">|</span>
+        <a href="/newsletter" id="investors-link" target="_blank">
+	<span itemprop="name" data-title='{"desktop":"ニュースレター","tablet":"ニュースレター","mobile":"ニュースレター"}'>ニュースレター</span>
+    </a>
+</li>
+    </div>
+</ul>
+</div>
+<div class="desktop-tablet-sub-menu" id="js-company-menu">
+    <div class="content-bounds">
+        </div>
+</div></div>
+<div class="sub-nav col col0">
+				<div class="CloudSearchBox cloudSearch"><div class="search-box" role="search" aria-labelledby="search">
+    <div id="search">
+    	<form action="/search" id="cloudsearch" accept-charset="UTF-8">
+        	<input type="text" name="q" id="q" value="" placeholder="検索" class="search-query-field" autocomplete="off" aria-label="検索">
+        	<div class="icon-container"><i class="icon-search" aria-hidden="true"></i> <span class="sr-only">検索</span></div>
+        </form>
+    </div>
+</div></div>
+</div>
+		</div>
+
+		<section id="global-banner" class="hidden-phone">
+			<div class="container">
+				<div class="vertically-centered">
+						<a href="/homepage">
+							<img data-src='{
+										"desktop":"/content/dam/journey/jp/ja/private/save/coca-cola-journey-desktop.png",
+										"tablet":"/content/dam/journey/jp/ja/private/save/coca-cola-journey-tablet.png",
+										"mobile":"/content/dam/journey/jp/ja/private/save/coca-cola-journey.png"
+									}' data-dimensions='{
+										"desktop":"1020_105",
+										"tablet":"760_105",
+										"mobile":"185_40"
+									}' src="/content/dam/journey/jp/ja/private/save/coca-cola-journey.png" alt="Go to Coca-Cola Journey Homepage" title="Go to Coca-Cola Journey Homepage" class="hidden horizontally-centered"/>
+							</a>
+					</div>
+				</div>
+		</section>
+
+		<div class="TopNavigation parbase topNav"><section id="global-section-nav" role="navigation" aria-label="top_menu">
+    <nav class="container clearfix">
+    <ul class="sections" data-total-sections="8">
+    <li class="section">
+       	    <a tabindex="1" href="/homepage" class="active section-link first">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"トップ<strong class=\"theme-secondary\"></strong>",
+						"tablet":"トップ<strong class=\"theme-secondary\"></strong>",
+						"mobile":"トップ<strong class=\"theme-secondary\"></strong>"}'>
+							
+						トップ<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="2" href="/stories" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"ストーリー<strong class=\"theme-secondary\"></strong>",
+						"tablet":"ストーリー<strong class=\"theme-secondary\"></strong>",
+						"mobile":"ストーリー<strong class=\"theme-secondary\"></strong>"}'>
+							
+						ストーリー<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="3" href="/brands" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"製品情報<strong class=\"theme-secondary\"></strong>",
+						"tablet":"製品情報<strong class=\"theme-secondary\"></strong>",
+						"mobile":"製品情報<strong class=\"theme-secondary\"></strong>"}'>
+							
+						製品情報<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="4" href="/company-information" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"企業情報<strong class=\"theme-secondary\"></strong>",
+						"tablet":"企業情報<strong class=\"theme-secondary\"></strong>",
+						"mobile":"企業情報<strong class=\"theme-secondary\"></strong>"}'>
+							
+						企業情報<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="5" href="/sustainability" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"<span style="font-size: 60%;">サスティナビリティー</span><strong class=\"theme-secondary\"></strong>",
+						"tablet":"<span style="font-size: 60%;">サスティナビリティー</span><strong class=\"theme-secondary\"></strong>",
+						"mobile":"<span style="font-size: 60%;">サスティナビリティー</span><strong class=\"theme-secondary\"></strong>"}'>
+							
+						<span style="font-size: 60%;">サスティナビリティー</span><strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="6" href="/press-center" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"<span style="font-size: 70%;">プレスセンター</span><strong class=\"theme-secondary\"></strong>",
+						"tablet":"<span style="font-size: 70%;">プレスセンター</span><strong class=\"theme-secondary\"></strong>",
+						"mobile":"<span style="font-size: 70%;">プレスセンター</span><strong class=\"theme-secondary\"></strong>"}'>
+							
+						<span style="font-size: 70%;">プレスセンター</span><strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="7" href="/vending-machine" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"自動販売機<strong class=\"theme-secondary\"></strong>",
+						"tablet":"自動販売機<strong class=\"theme-secondary\"></strong>",
+						"mobile":"自動販売機<strong class=\"theme-secondary\"></strong>"}'>
+							
+						自動販売機<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="8" href="https://j.cocacola.co.jp/info/" class=" section-link " target="_blank">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"お客様相談室<strong class=\"theme-secondary\"></strong>",
+						"tablet":"お客様相談室<strong class=\"theme-secondary\"></strong>",
+						"mobile":"お客様相談室<strong class=\"theme-secondary\"></strong>"}'>
+							
+						お客様相談室<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        </ul>
+	</nav>
+</section>
+</div>
+<div class="Nav"><section id="global-package-nav" class="collapsed">
+        <div class="container">
+            <ul class="packages" data-total-packages="6">
+                <li class="package first" data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/health" class="package-link " data-has-tooltip="false">
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"健康・安全","tablet":"健康・安全","mobile":"健康・安全"}'
+                                    class="">健康・安全</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/environment" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"環境","tablet":"環境","mobile":"環境"}'
+                                    class="">環境</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/community" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"コミュニティー","tablet":"コミュニティー","mobile":"コミュニティー"}'
+                                    class="">コミュニティー</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/innovation" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"イノベーション","tablet":"イノベーション","mobile":"イノベーション"}'
+                                    class="">イノベーション</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/sports" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"スポーツ","tablet":"スポーツ","mobile":"スポーツ"}'
+                                    class="">スポーツ</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/history_" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"歴史","tablet":"歴史","mobile":"歴史"}'
+                                    class="">歴史</span>
+                                </div>
+                    </a>
+                </li><!-- keep </li><li> together -->
+            </ul>
+        </div>
+    </section>
+    <div class="fold fold-left"></div>
+    <div class="fold fold-right"></div>
+</div>
+</section>
+</header>
+<!--googleon: all-->
+</div>
+<h1 class="tccc-seo-nfop">トップ</h1>
+<div class="wrapper home-wrap" role="contentinfo">
+    <div class="Breadcrumbs breadcrumbs"></div>
+<div class="grid home-page">
+    <div class="row">
+        <div class="parsys heroSlideshowPar"><div class="section TwoWide"><article class="hero-module-article">
+		<div class="module module-slideshow">
+			<div class="media-container hero-module-container" data-auto-play="true">
+				<div class="center-view-container">
+					<div class="royalSlider rsHeroStyle rsDefault">
+						<div data-index="1" class="slideshow_item first">
+								<a href="/stories/innovation_local-slim-bottle0815" title="［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0815/innovation_local-slim-bottle0815_heroslideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0815/innovation_local-slim-bottle0815_heroslideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0815/innovation_local-slim-bottle0815_heroslideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0815/innovation_local-slim-bottle0815_heroslideshow_callout.rendition.290.190.png" alt="［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏" title="［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0815/innovation_local-slim-bottle0815_heroslideshow_callout.rendition.111.73.png" alt="innovation_local-slim-bottle0815_heroslideshow_callout.png"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏",
+										"tablet":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏",
+										"mobile":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏"}'>
+										［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏</p>
+									<p class="summary">2015年、 “コンツアーボトル”の名で知られる「コカ･コーラ」ボトルの誕生100周年を記念して、「コカ･コーラ」スリムボトルが日本で初めて発売されました。“コンツアーボトル”と同じコンセプトで、見ただけで「コカ･コーラ」と分かる独特の形状をした“スリムボトル”はすぐさま人気を集め、現在ではさまざまな限定パッケージが販売中。加えて、この８月には６つの地域限定パッケージも発売されます。 なぜ、“スリムボトル”にこれだけ多くのバリエーションが誕生したのか？　パッケージデザイン開発、マーケティング、グラフィックデザインを担当する、株式会社コカ･コーラ東京開発センターの三河尻尚人、日本コカ･コーラ <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="2" class="slideshow_item first">
+								<a href="/stories/coca-cola-baseball-team0809" title="経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0809/coca-cola-baseball-team0809_heroslideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0809/coca-cola-baseball-team0809_heroslideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0809/coca-cola-baseball-team0809_heroslideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0809/coca-cola-baseball-team0809_heroslideshow_callout.rendition.290.190.png" alt="経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？" title="経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0809/coca-cola-baseball-team0809_heroslideshow_callout.rendition.111.73.png" alt="coca-cola-baseball-team0809_heroslideshow_callout.png"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？",
+										"tablet":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？",
+										"mobile":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？"}'>
+										経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？</p>
+									<p class="summary">全国高等学校野球選手権大会、通称“夏の甲子園”は、今年が記念すべき第100回。幾世代にもわたって愛され続けてきた、野球というスポーツの根強い人気を感じさせる数字ですね。  ところで、ザ コカ･コーラ カンパニー（米国本社）がかつてプロ野球チームを所有していたということをご存知の方は、野球ファンでもそう多くないのではないでしょうか。実は、同社は1932年から1949年にかけて、地元アトランタのチーム「アトランタ・クラッカーズ」のオーナーを務めていたのです。今回は、ザ コカ･コーラ カンパニーのサポートを受けた野球チームが経営難を克服し、さらには人種間に存在する大きな壁を乗り越えるための大きな第一歩を踏み出すまでの物語を、ご紹介いたします。文＝テッド・ライアン&nbsp;■その日、アトランタで初めて「白人と黒人の試合」が行われた1949年4月8日、ジョージア州アトランタの野球史に残る試合が開催されました。ブルックリン・ドジャース（＊1）対アトランタ・クラッカーズの公開試合で、黒人選手のジャッキー・ロビンソンと白人選手のロイ・キャンパネラが対決。人種差別的な制度や思想が支配的だったアトランタにおいて、史上初めて人種の壁を越えた対戦が実現したのです。ジョージア州出身のロビンソン選手は、当時は肌の色によってリーグすらも分かれていたアメリカ野球界の壁を突破し、ブルックリン・ドジャースで初の黒人選手として活躍していました。メジャーデビューから遅れること2年、黒人・白人合わせて1万8,000人を超えるアトランタの観衆の大歓声を受けた彼は、「世界中の誰とも、この立場を替わりたくない」と感慨を口にしました。この試合の実現に尽力したのが、アトランタ・クラッカーズのプレジデント兼ゼネラルマネジャー（GM）だったアール・マンと、ブルックリン・ドジャースGMのブランチ・リッキーでした。二人は試合の妨害を目論むクー・クラックス・クラン（KKK）（＊2）の脅迫にも屈せず、断固として試合開催の姿勢を貫いたのです。そんな二人を支えていたのが、当時のアトランタ・クラッカーズのオーナー、ロバート・ウッドラフ社長率いるザ <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="3" class="slideshow_item first">
+								<a href="/stories/tokyo2020_tokyoolympic-4_0807" title="東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0807/tokyo2020_tokyoolympic-4_0807_herosideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0807/tokyo2020_tokyoolympic-4_0807_herosideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0807/tokyo2020_tokyoolympic-4_0807_herosideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0807/tokyo2020_tokyoolympic-4_0807_herosideshow_callout.rendition.290.190.png" alt="東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか" title="東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0807/tokyo2020_tokyoolympic-4_0807_herosideshow_callout.rendition.111.73.png" alt="cocacola-image_2018年の幕開けを迎えて_納品_1226"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか",
+										"tablet":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか",
+										"mobile":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか"}'>
+										東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか</p>
+									<p class="summary">コカ･コーラ社はアムステルダム1928オリンピック以来、90年もの長きにわたり、オリンピックのワールドワイドパートナーを務めてきました。もちろん、東京1964オリンピックもサポートしましたし、2年後に控える東京2020オリンピックも、さまざまな形で大会をサポートしていきます。 本連載「東京オリンピックと『コカ･コーラ』」では、東京2020オリンピックに向けて、東京1964オリンピックに関わった方々への取材をもとに当時の記憶をたどり、次大会へと繋がる“何か”を探しています。 第4回は、エンブレムと公式ポスターのデザインを手がけたグラフィックデザイナー亀倉雄策さんのエピソードを振り返ります。（連載第1回はこちら）文＝野地秩嘉&nbsp;■「コカ･コーラ」と亀倉雄策の意外な関係　亀倉雄策は日本デザイン界の巨人だ。代表作は1964年（昭和39年）の東京オリンピックのシンボルマーク（エンブレム）と4枚の公式ポスターである。オリンピックのポスターでは1966年のポーランド国際ポスタービエンナーレで芸術特別賞を受賞している。他にも大企業のコーポレートマークや、グッドデザイン賞のマークなど、彼が手がけた作品の多くが現在もなお残っている。　そんな亀倉が敗戦後、デザインを勉強するために収集したのがアメリカのデザイン雑誌とタバコやチョコレート、口紅などのパッケージデザインである。なかでも、彼が意識していたグラフィックデザイナーがアメリカ人、レイモンド・ローウィだった。それ以前にはフランスのカッサンドルというグラフィックデザイナーが亀倉のあこがれだったが、実作に取りかかった後はローウィの作品の影響が感じられる。　ローウィは著書『口紅から機関車まで』の書名通り、口紅から冷蔵庫、バス、蒸気機関車、大統領専用機のエアフォースワンまでをデザインした男だった。加えて、ローウィは「コカ･コーラ」の業務用クーラーボックスやデリバリートラック、ソーダファウンテン（カウンター形式の喫茶店）用ディスペンサーも手がけている。つまり、亀倉が制作した奇跡のポスターの基礎になっていたのがローウィのデザインだったとも言えるわけだ。　そして、敗戦後の日本にあふれていたのは「コカ･コーラ」であり、「コカ･コーラ」の明るく、あか抜けたデザインだった。亀倉自身は「コカ･コーラ」を愛飲したとは言えないが、亀倉デザインに影響を与えていたのは「コカ･コーラ」と縁が深いレイモンド・ローウィだったのである。&nbsp;■「戦前から現在までを含めて、最高の傑作ポスター」　昭和30年代当時、グラフィックデザイナーは今ほど世間に知られた職業ではなかった。「図案家」と呼ばれ、デパートのチラシを作る人といったイメージだったのである。だが、亀倉が発表した東京オリンピックのエンブレム、ポスターはグラフィックデザイナーの仕事を天下に知らしめた。図案家という古臭いイメージを振り払う大傑作だったのである。　彼がまずデザインしたのはエンブレムだった。開催を4年後に控えた1960年、一流デザイナー6人によるコンペが行われたが、亀倉案を見た審査員たちは一目見て「これにしよう」と決めている。真っ赤な丸印に金色の五輪を組み合わせたシンプルな意匠だったが、強い造形と鮮烈な色彩は他の追随を許さないものだった。東京1964オリンピックのエンブレム　続いて、彼は公式ポスターの制作に臨んだ。公式ポスターの第1号はエンブレムを拡大したバージョンで、完成は1961年2月。続いて、第2号から第4号までの公式ポスターを1年ごとに発表する。一度にすべてを見せなかったのは、国民のオリンピックへの関心を徐々にかきたてようという亀倉の提案だった。　2号ポスターから4号ポスターまではいずれも写真を使っている。当時のオリンピックのポスターとしては考えられない冒険的なデザインだった。そのことについて、亀倉はのちにこう語っている。「あのポスターのことだけれど、僕は最初から写真でいこうと決めていた。それまでのポスターは下手な画家が描いたポスターだ。それでは迫力が出ない。写真しかない。そして、写真でいくならばカメラマンは早崎（治）くんしかいないと思った」　亀倉が「あのポスター」と言ったのは、陸上のスタートダッシュをとらえた第2号ポスターのことだ。　デザイン界の長老、永井一正は「戦前から現在までを含めて日本のグラフィックデザイン史上、最高の傑作ポスター」と言った。それほど、誰もが見覚えがあるものなのだ。東京1964オリンピックの公式ポスター第2号 <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="4" class="slideshow_item first">
+								<a href="/stories/cocacolacafe09_0802" title="日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0802/cocacolacafe09_0802_b_heroslideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0802/cocacolacafe09_0802_b_heroslideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0802/cocacolacafe09_0802_b_heroslideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0802/cocacolacafe09_0802_b_heroslideshow_callout.rendition.290.190.png" alt="日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん" title="日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0802/cocacolacafe09_0802_b_heroslideshow_callout.rendition.111.73.png" alt="cocacolacafe09_0802_b_heroslideshow_callout.png"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん",
+										"tablet":"日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん",
+										"mobile":"日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん"}'>
+										日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん</p>
+									<p class="summary">文＝『Coca-Cola Journey』編集部メニュー監修＝株式会社グリーンハウス日本コカ･コーラの社食「コカ･コーラ カフェ」で実際に提供されている、 コカ･コーラ社製品を使ったおいしいレシピを動画でご紹介していく連載企画です。 第9回は、「コカ･コーラ」を使った肉うどんをご紹介します。 「コカ･コーラ」の爽やかな味わいが食欲をそそり、暑い夏にもぴったりです。（連載第1回から読む）&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;&nbsp;【レシピ】■材料　（2人前）〈薬味〉長ねぎ　　15ｇ九条ねぎ　　15ｇセリ　　15ｇ〈調味料〉砂糖　　大さじ1酒　　大さじ2醤油　　大さじ2水　　大さじ2「コカ･コーラ」　　16cc(ml)牛肩ロース　　200ｇうどん　　1玉めんつゆ　　40cc(ml)水　　300cc(ml)白ごま　　小さじ1/2柚子　　少々&nbsp;■つくり方1．長ねぎ、九条ねぎ、セリをスライスして混ぜ、薬味を準備する。2．鍋に調味料を入れてひと煮立ちさせ、牛肩ロースを入れて煮込む。3．うどんを茹でる。4．めんつゆと水を鍋に入れて火にかけ、つゆをつくる。5．器に3と4を入れ、2と1を盛り付ける。白ごまと柚子をトッピングする。&nbsp;＊以前のレシピは、こちらからご覧ください。第1回　ローストポーク「コカ･コーラ」ソース第2回　「コカ･コーラ」で煮付けた金目鯛第3回　豚肉と白いんげんの「コカ･コーラ」煮第4回　魚介のカクテル　「ミニッツメイド <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="5" class="slideshow_item first">
+								<a href="/stories/sustainability_meeting_sdgs0731" title="SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0727/sustainability_meeting_sdgs0731_heroslideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0727/sustainability_meeting_sdgs0731_heroslideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0727/sustainability_meeting_sdgs0731_heroslideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0727/sustainability_meeting_sdgs0731_heroslideshow_callout.rendition.290.190.png" alt="SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン" title="SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0727/sustainability_meeting_sdgs0731_heroslideshow_callout.rendition.111.73.png" alt="sustainability_meeting_sdgs0731_heroslideshow_callout.png"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン",
+										"tablet":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン",
+										"mobile":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン"}'>
+										SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン</p>
+									<p class="summary">国連が定めた「持続可能な開発目標」（SDGs：Sustainable Development Goals）をご存知でしょうか？ 2015年の国連総会で採択されたSDGsは、「貧困をなくそう」「ジェンダー平等を実現しよう」「安全な水とトイレを世界中に」「飢餓をゼロに」など17の目標から構成される、今日の世界が抱える深刻な問題の解決に向けた枠組みです。その達成には、各国政府や産業界から一般市民まで、あらゆる人々の協力と貢献が欠かせません。コカ･コーラ社は、SDGsを企業活動の重要な指針と位置づけ、多くの協働プロジェクトを通してよりよい世界の実現を目指しています。今回はその取り組みの一部をご紹介します。文＝サザード・ノウァク&nbsp;■アフリカでは280万人以上に安全な水を提供コカ･コーラ社は長年にわたり、業界や国の垣根を越えてさまざまな組織との協力体制を築きながら世界的な課題に取り組み、多くの成果を上げてきました。現在同社は、SDGsの17の項目すべてを視野に入れてサスティナビリティー（持続可能性）活動に取り組んでいます。その中でも、最も影響力を発揮できる分野と考えられる「5：ジェンダー平等を実現しよう」、「6：安全な水とトイレを世界中に」、「8：働きがいも経済成長も」、「12：つくる責任・つかう責任」、「14：海の豊かさを守ろう」、「17：パートナーシップで目標を達成しよう」の6つを重点目標と定めています。たとえば、コカ･コーラ社の水管理を巡る各種の活動は「6：安全な水とトイレを世界中に」につながっています。同社が主導するプロジェクト「RAIN」は、2020年までにアフリカ全土で、少なくとも600万人が安全な水を持続的に確保できるようにすることを目指しています。2017年末時点で、このプロジェクトを通して安全な飲料水の提供を受けた人は280万人以上。また、アフリカ40ヵ国の2,000以上のコミュニティーで、衛生的な水道やトイレの供給を支援しています。&nbsp;■国連開発計画とパートナーシップ提携コカ･コーラ社は2014年、国連開発計画（UNDP）と提携し、「ニューワールド・パートナーシップ～包括的かつ持続可能な人間開発イニシアチブ～」を結成しました。このパートナーシップは、国連の調査に基づき、人類の持続可能な発展のために不可欠と位置付けられた5つの優先分野（良い教育、より良い雇用機会、安全な水へのアクセス、清潔な衛生設備へのアクセス、川の保護）に取り組むことを目的としています。2016年には水を巡る諸問題に取り組む非営利団体「グローバル・ウォーター・チャレンジ」もパートナーシップに参画したことで、体制はさらに強化されました。動画：「ニューワールド・パートナーシップ」のビジョン&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;「ニューワールド・パートナーシップ」は、SDGsの中では「4：質の高い教育をみんなに」、「5：ジェンダー平等を実現しよう」、「6：安全な水とトイレを世界中に」、「17：パートナーシップで目標を達成しよう」に焦点を当て、ヨーロッパ、アジア、中東、アフリカの19ヵ国で事業を展開。最初の2年間で、受益者は150万人以上に上りました。 <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="6" class="slideshow_item first">
+								<a href="/stories/share_a_coke_2018summer" title="全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0710/share_a_coke_2018summer_heroslideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0710/share_a_coke_2018summer_heroslideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0710/share_a_coke_2018summer_heroslideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0710/share_a_coke_2018summer_heroslideshow_callout.rendition.290.190.png" alt="全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！" title="全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0710/share_a_coke_2018summer_heroslideshow_callout.rendition.111.73.png" alt="share_a_coke_2018summer_heroslideshow_callout.png"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！",
+										"tablet":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！",
+										"mobile":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！"}'>
+										全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！</p>
+									<p class="summary">「コカ･コーラ」のラベルに名前が印字された、通称“ネームボトル”を展開する「Share a Coke」 キャンペーン。米国では、2014年のスタート以来すっかり定番となり、今や“ネームボトル”は友人や家族と過ごすときに欠かせないアイテムです。  このキャンペーンについて、ザ コカ･コーラ カンパニー（米国本社）でシニアブランドマネジャーを務めるサクソン・シーエイは、次のように語ります。「『Share a Coke』の根底にある理念は変わっていませんが、消費者に響く新鮮な体験を提供するために、その手法は毎年変化しています。開始当初は、『店頭の製品ラベルに自分の名前が印字されている』というまったく新しい体験を消費者に理解してもらうことに注力する必要がありました。しかし“ネームボトル”が浸透し、キャンペーンに対する反響と期待が高まるにつれて、さらなる新しさが求められるようになっているのです」。 <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="7" class="slideshow_item first">
+								<a href="/stories/millennial-voice-3" title="［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0724/millennial-voice-3_herosideshow_callout.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0724/millennial-voice-3_herosideshow_callout.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0724/millennial-voice-3_herosideshow_callout.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0724/millennial-voice-3_herosideshow_callout.rendition.290.190.png" alt="［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？" title="［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0724/millennial-voice-3_herosideshow_callout.rendition.111.73.png" alt="cocacola-image_FIFAワールドカップ_納品"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？",
+										"tablet":"［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？",
+										"mobile":"［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？"}'>
+										［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？</p>
+									<p class="summary">「ワークライフバランス」に代わるコンセプトとして、しばしば聞かれるようになった言葉「ワークライフインテグレーション」をご存知だろうか？　仕事もプライベートも人生の大事な一部であるため、両者を分離してバランスを取ろうとするのではなく、統合（Integration）して双方の高い充実を目指そうという考え方だ。米国の西海岸を中心に広まったものだが、日本ではまだ定着しているとは言い難い。しかし、日本コカ･コーラのミレニアル世代（＊）の社員の中に、その実践者を発見。4歳児のパパとして、グローバルヤングリーダーとして、仕事に育児に奮闘する彼の1日に密着した。＊ミレニアル世代……1980年代から2000年代初頭までに生まれた世代を指す言葉。小さい頃からデジタル端末やソーシャルメディアに触れているので、「デジタルネイティブ」とも呼ばれ、ビジネスシーンに新しい価値観をもたらすのではないかと注目されている。文＝香川誠写真＝村上悦子＊過去の連載記事はこちら第1回　若手から会社を変えていく！新プロジェクト「ミレニアル・ボイス」の全貌第2回　キーワードは「巻き込む力」「目的意識」「ポジティブ」。グローバルサミットで見えてきた、次世代リーダーの共通項&nbsp;■電話会議に子どもの声、は当たり前　午前9時55分。Tシャツ姿のケン・リーが日本コカ･コーラ本社の玄関に現れた。毎週金曜日はTシャツで出勤すると決めているというが、今日は金曜日ではない。「今日は密着取材をしていただけるということで、これを広めようと思って……」　彼の胸には「Millennial <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						<div data-index="8" class="slideshow_item first">
+								<a href="/stories/female_workers" title="みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」">
+								<img data-src='{
+											"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0719/female_workers_herosideshow_callout-.png",
+											"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0719/female_workers_herosideshow_callout-.png",
+											"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0719/female_workers_herosideshow_callout-.rendition.290.190.png"
+										}' data-dimensions='{
+											"desktop":"692_452",
+											"tablet":"692_452",
+											"mobile":"290_190"
+										}' src="/content/dam/journey/jp/ja/global/2018/stories/0719/female_workers_herosideshow_callout-.rendition.290.190.png" alt="みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」" title="みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」"/>
+								</a>
+								<div class="rsTmb">
+									<img src="/content/dam/journey/jp/ja/global/2018/stories/0719/female_workers_herosideshow_callout-.rendition.111.73.png" alt="female_workers_herosideshow_callout-"/>
+								</div>
+								<div class="rsCaption hidden">
+									<p class="title" data-title='{
+										"desktop":"みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」",
+										"tablet":"みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」",
+										"mobile":"みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」"}'>
+										みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」</p>
+									<p class="summary">7月19日は「女性の社会進出を応援する記念日」であることをご存知でしょうか？　この日は日本初の女性大臣が誕生した日（＊1）であり、二人の日本人女性がマッターホルン北壁の登頂を世界で初めて、女性だけのパーティーで成し遂げた日（＊2）なのです。 この記念日にちなみ、『Coca-Cola Journey』では、日本コカ･コーラで活躍する二人の女性社員の対談を行いました。一人は一度会社を退職し、17年間「専業主婦」を経験した後に、パートタイマーから仕事復帰を果たした薄井シンシア。もう一人は新卒で日本コカ･コーラに入社後、3人の子どもを育てながら働き続け、現在はグループマネジャー職にある乙黒慧。 ワーク・ライフ・バランスやワーク・ライフ・インテグレーション（＊3）に悩む女性が増えている中、それぞれ異なるキャリアを築いてきた二人の話を通じて、企業における“本当のダイバーシティ（多様性）”のあるべきかたちを探ります。＊1 <strong class="theme-secondary theme-color-primary"></strong></p>
+							<div class="fadeout-vert"></div>
+								</div>
+								</div>
+						</div>
+
+
+
+					<div class="hero-slideshow-nav-left side-navigation-colum left">
+						<div class="mask-visiblenearby left"></div>
+						<i class="icon-chevron icon-chevron-left" aria-hidden="true"></i>
+					</div>
+					<div class="hero-slideshow-nav-right side-navigation-colum right">
+						<div class="mask-visiblenearby right"></div>
+						<i class="icon-chevron icon-chevron-right" aria-hidden="true"></i>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<section class="thumbseeker" data-num-thumbnails="8">
+			<div class="skip-button skip-reverse"><i class="icon icon-double-angle-left" aria-hidden="true"></i></div>
+			<div class="thumb-container"></div>
+			<div class="skip-button skip-forward"><i class="icon icon-double-angle-right" aria-hidden="true"></i></div>
+		</section>
+	</article>
+</div>
+
+</div>
+</div>
+    <div class="row">
+        <div class="parsys gridTopicFiltersPar"><div class="GridTopicFilters section"><div class="grid-topic-filters">
+    <h4 class="headline-section">
+        <span itemprop="name" data-title='{"desktop":"Featured<strong class=\"theme-secondary \"></strong>","tablet":"Featured<strong class=\"theme-secondary\"></strong>","mobile":"Featured<strong class=\"theme-secondary\"></strong>"}'>
+            Featured<strong class="theme-secondary "></strong>
+        </span>
+    </h4>
+    <div class="grid-topic-wp">
+        <div class="container">
+            <div class="scroller scroller-left"><i class="icon-chevron icon-chevron-left"></i></div>
+            <div class="scroller scroller-right"><i class="icon-chevron icon-chevron-right"></i></div>
+            <div class="navListwrapper">
+                <ul class="categories justPoured-Nav-list theme-color-primary">
+                </ul>
+            </div>
+        </div>      
+    </div>
+        <div id="topic-container" data-featured-page-full-path="/content/journey/jp/ja/homepage/featured">
+            <div class="TwoWide"><div class="grid-topic-filters ">
+	<div class = "grid-topic-main" data-topicFilterPagePath="/content/journey/jp/ja/homepage" data-isPublishMode="true">
+	<div class="grid-topic-wp">
+		<div class="tf-grid">
+			<div class="thcc-component-wp space-side space-btn">
+				<div class="TopicHeroCategoryCallout callout-hero"><div class="topic-hero-category-callout defaultLayout">
+	<a href="/stories/salseman-mocktail0814" target="">
+			<img data-src='{
+					"desktop":"/content/dam/journey/jp/ja/global/2018/stories/0814/salseman-mocktail0814_herosideshow_callout-.rendition.692.432.png",
+					"tablet":"/content/dam/journey/jp/ja/global/2018/stories/0814/salseman-mocktail0814_herosideshow_callout-.rendition.692.432.png",
+					"mobile":"/content/dam/journey/jp/ja/global/2018/stories/0814/salseman-mocktail0814_herosideshow_callout-.rendition.320.196.png"
+				}' data-dimensions='{
+					"desktop":"692_432",
+					"tablet":"692_432",
+					"mobile":"320_196"
+				}' src="/content/dam/journey/jp/ja/global/2018/stories/0814/salseman-mocktail0814_herosideshow_callout-.rendition.320.196.png" alt="cocacola-image_FIFAワールドカップ_納品" title="cocacola-image_FIFAワールドカップ_納品" style="border-right:7px solid #BA2979"/>
+		</a>
+
+		<div class="banner " style="background:#BA2979">
+			<span>ブランド</span>
+		</div>
+	</div>
+</div>
+</div>
+			<div class="thps-component-wp space-btn">
+				<div class="thps-component TopicHeroPromoSpace"><div class="topic-hero-promo-space " itemscope itemtype="http://schema.org/ItemList">
+    <a href="/brands" target="" title="製品情報">
+            <img data-src='{
+                    "desktop":"/content/dam/journey/jp/ja/global/2017/products/0703_top/panel_product_170703.png",
+                    "tablet":"/content/dam/journey/jp/ja/global/2017/products/0703_top/panel_product_170703.png",
+                    "mobile":"/content/dam/journey/jp/ja/global/2017/products/0703_top/panel_product_170703.rendition.138.138.png"
+                }' data-dimensions='{
+                    "desktop":"310_310",
+                    "tablet":"310_310",
+                    "mobile":"138_138"
+                }' src="/content/dam/journey/jp/ja/global/2017/products/0703_top/panel_product_170703.rendition.138.138.png" style="border-right-color:#B81321" alt="製品情報"/>
+        </a>
+        <div class="topic-content">
+            <div class="theme-contrast theme-bg-primary topic-headline" style="background-color:#B81321">
+                    <strong class="theme-color-primary">
+                        <span itemprop="name" data-title='{
+                            "desktop":"製品情報",
+                            "tablet":"製品情報",
+                            "mobile":"製品情報"}'>製品情報</span>
+                    </strong>
+                </div>
+                <div class="topic-headline no-background">
+                    <strong class="theme-color-secondary" style="color:#B81321">
+                        <span itemprop="name" data-title='{
+                             "desktop":"製品情報",
+                             "tablet":"製品情報",
+                             "mobile":"製品情報"}'>製品情報</span>
+                    </strong>
+                </div>
+            <p class="description theme-font-secondary">
+                <a href="/brands">日本コカ･コーラの製品や各ブランドの説明、ラインナップ、原材料・栄養成分などをご紹介しています。</a></p>
+        </div>
+    </div>
+</div>
+</div>
+			<div class="mp-component-wp space-side space-btn">
+				<div class="lc-component CloudLatestContentExtended">
+
+
+
+
+
+
+
+
+	
+	
+		<div class="skyscraper-list latest-content-extended" data-section-path="/content/journey/jp/ja/press-center/press-release" data-blacklist='' data-lambda-endpointurl="https://uc8sgmjzag.execute-api.us-east-1.amazonaws.com/prod/getlatestcontentextended" data-locale="jp_ja" data-author-mode="false" data-date-label="更新日" data-date-format="yyyy/MM/dd">
+		    <div class="banner theme-contrast">
+		        <span itemprop="name" data-title="{'desktop':'ニュースリリース'}">ニュースリリース</span>
+		    </div>
+		    <div class="content-wrapper">
+		        <ol itemscope="" itemtype="http://schema.org/ItemList">
+		            
+		        </ol>
+		    </div>
+		</div>		
+	
+</div>
+</div>
+			<a href="" class="seeMore_toggle">その他<i class="icon-caret-down" aria-hidden="true"></i> <span class="sr-only">その他</span></a>
+			<div class="callouts-group1 space-btn">
+				<div class="space-btn callout1x2 space-side 1 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="space-btn callout1x1 2 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="callout1x1p space-side">
+					<div class="tcps1-component TopicCategoryPromoSpaces"><div class="topic-category-promo-spaces " itemscope
+	itemtype="http://schema.org/ItemList">
+	<a href="/press-center"><span class="linkText">プレスセンター</span><img data-src='{
+			"desktop":"/content/dam/journey/jp/ja/global/2018/top/presscenter.rendition.245.385.png",
+			"tablet":"/content/dam/journey/jp/ja/global/2018/top/presscenter.rendition.245.385.png",
+			"mobile":"/content/dam/journey/jp/ja/global/2018/top/presscenter.png"
+		}' data-dimensions='{
+			"desktop":"245_385",
+			"tablet":"245_385",
+			"mobile":"272_316"
+		}' src="/content/dam/journey/jp/ja/global/2018/top/presscenter.png" alt=""/>
+	</a></div>
+</div>
+</div>
+				<div class="callout1x1 space-side 3 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="callout1x1 last 4 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+			</div>
+			<div class="callouts-group2">
+				<div class="callout1x1 space-side space-btn 5 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="callout1x1 space-side space-btn 6 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="callout1x1p space-btn">
+					<div class="tcps2-component TopicCategoryPromoSpaces"><div class="topic-category-promo-spaces " itemscope
+	itemtype="http://schema.org/ItemList">
+	<a href="https://c.cocacola.co.jp/app/" target="_blank"><span class="linkText">CokeON</span><img data-src='{
+			"desktop":"/content/dam/journey/jp/ja/global/2018/top/connection_app_2.rendition.245.385.png",
+			"tablet":"/content/dam/journey/jp/ja/global/2018/top/connection_app_2.rendition.245.385.png",
+			"mobile":"/content/dam/journey/jp/ja/global/2018/top/connection_app_2.png"
+		}' data-dimensions='{
+			"desktop":"245_385",
+			"tablet":"245_385",
+			"mobile":"272_316"
+		}' src="/content/dam/journey/jp/ja/global/2018/top/connection_app_2.png" alt=""/>
+	</a></div>
+</div>
+</div>
+				<div class="callout1x1p space-side">
+					<div class="tcps3-component TopicCategoryPromoSpaces"><div class="topic-category-promo-spaces " itemscope
+	itemtype="http://schema.org/ItemList">
+	<a href="https://www.instagram.com/cocacola_japan/" target="_blank"><span class="linkText">コカ･コーラinstagram</span><img data-src='{
+			"desktop":"/content/dam/journey/jp/ja/global/2018/top/instagram.png",
+			"tablet":"/content/dam/journey/jp/ja/global/2018/top/instagram.png",
+			"mobile":"/content/dam/journey/jp/ja/global/2018/top/instagram.png"
+		}' data-dimensions='{
+			"desktop":"245_385",
+			"tablet":"245_385",
+			"mobile":"272_316"
+		}' src="/content/dam/journey/jp/ja/global/2018/top/instagram.png" alt="instagram.png"/>
+	</a></div>
+</div>
+</div>
+				<div class="callout1x1 space-side space-btn 7 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="callout1x1 space-btn 8 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div
+					class="callouts-group3 space-btn space-side 9 calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+				<div class="callouts-group3 space-btn 10  calloutTile ">
+					<div class="topic-category-callouts" itemscope itemtype="http://schema.org/ItemList">    
+<div class="topic-callout topicCalloutTag">
+        <a href="">
+            <img src="" alt="Topic Filter Category Callout">
+        </a>
+        <div class="topic-content">
+            <div class="topic-headline"><strong></strong></div>
+            <a href="" class="topic-lead-in">
+                <p class="topic-headline-lead-in " style="color:#8958A2">
+                    <strong></strong>
+                </p>
+                <h3>
+                    <span itemprop="name" data-title="" class="theme-font-main"></span>
+                </h3>
+                <p class="description theme-font-secondary"></p>
+                <div class="shadow"></div>
+                <div class="ie8 ie8-fadeout"></div>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+			</div>
+			<div class="rl-component-wp space-btn">
+					<div class="rl-component RecommendedList"><form> 
+    <input id="recommendedHomePageSize" type="hidden" value='10'/> 
+    <input id="recommendedArticleSize" type="hidden" value=''/> 
+</form>
+
+
+<div class="skyscraper-list recommended-list">
+    <div class="banner theme-contrast">
+        <span itemprop="name" data-title='{
+            "desktop":"おすすめのコンテンツ<strong class=\"theme-secondary\"></strong>",
+            "tablet":"おすすめのコンテンツ<strong class=\"theme-secondary\"></strong>",
+            "mobile":"おすすめのコンテンツ<strong class=\"theme-secondary\"></strong>"}' class="theme-font-main">おすすめのコンテンツ<strong class="theme-secondary"></strong></span>
+    </div>
+     <div class="content-wrapper">
+          <ul>
+
+         <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/backstory_thetansan" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"［コカ･コーラ社の製品開発「ザ・タンサン」篇］ 満を持しての強炭酸水発売！ コカ･コーラ社ならではの「おいしい」の答え、ここにあり。<strong class=\"theme-secondary\"></strong>","tablet":"［コカ･コーラ社の製品開発「ザ・タンサン」篇］ 満を持しての強炭酸水発売！ コカ･コーラ社ならではの「おいしい」の答え、ここにあり。<strong class=\"theme-secondary\"></strong>","mobile":"［コカ･コーラ社の製品開発「ザ・タンサン」篇］ 満を持しての強炭酸水発売！ コカ･コーラ社ならではの「おいしい」の答え、ここにあり。<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">［コカ･コーラ社の製品開発「ザ・タンサン」篇］ 満を持しての強炭酸水発売！ コカ･コーラ社ならではの「おいしい」の答え、ここにあり。<strong class="theme-secondary"></strong></span>
+                     </a>
+                       <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/back-story_realgold" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"働き方が変われば、エナジーの意味も変わる。 2018年、ビジネスパーソンにおくる 新しい「リアルゴールド」のメッセージとは？<strong class=\"theme-secondary\"></strong>","tablet":"働き方が変われば、エナジーの意味も変わる。 2018年、ビジネスパーソンにおくる 新しい「リアルゴールド」のメッセージとは？<strong class=\"theme-secondary\"></strong>","mobile":"働き方が変われば、エナジーの意味も変わる。 2018年、ビジネスパーソンにおくる 新しい「リアルゴールド」のメッセージとは？<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">働き方が変われば、エナジーの意味も変わる。 2018年、ビジネスパーソンにおくる 新しい「リアルゴールド」のメッセージとは？<strong class="theme-secondary"></strong></span>
+                     </a>
+                       <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/chaba_no_amami" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"［コカ･コーラ社の製品開発「綾鷹 茶葉のあまみ」篇］ 数多もの試作の末にたどり着いた 緑茶の“あまみ”の秘密。<strong class=\"theme-secondary\"></strong>","tablet":"［コカ･コーラ社の製品開発「綾鷹 茶葉のあまみ」篇］ 数多もの試作の末にたどり着いた 緑茶の“あまみ”の秘密。<strong class=\"theme-secondary\"></strong>","mobile":"［コカ･コーラ社の製品開発「綾鷹 茶葉のあまみ」篇］ 数多もの試作の末にたどり着いた 緑茶の“あまみ”の秘密。<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">［コカ･コーラ社の製品開発「綾鷹 茶葉のあまみ」篇］ 数多もの試作の末にたどり着いた 緑茶の“あまみ”の秘密。<strong class="theme-secondary"></strong></span>
+                     </a>
+                       <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/kori_no_highlight" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"あの感動シーンが、一夜で氷像に!? 平昌2018冬季オリンピック「#コーク氷のハイライト」舞台裏レポート<strong class=\"theme-secondary\"></strong>","tablet":"あの感動シーンが、一夜で氷像に!? 平昌2018冬季オリンピック「#コーク氷のハイライト」舞台裏レポート<strong class=\"theme-secondary\"></strong>","mobile":"あの感動シーンが、一夜で氷像に!? 平昌2018冬季オリンピック「#コーク氷のハイライト」舞台裏レポート<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">あの感動シーンが、一夜で氷像に!? 平昌2018冬季オリンピック「#コーク氷のハイライト」舞台裏レポート<strong class="theme-secondary"></strong></span>
+                     </a>
+                       <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/pywongchang_ouen_event" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"綾瀬はるかさんと髙橋大輔さんが華麗なるスケート姿を披露！ 「コカ･コーラ」平昌2018冬季オリンピック応援キャンペーンPRイベントレポート<strong class=\"theme-secondary\"></strong>","tablet":"綾瀬はるかさんと髙橋大輔さんが華麗なるスケート姿を披露！ 「コカ･コーラ」平昌2018冬季オリンピック応援キャンペーンPRイベントレポート<strong class=\"theme-secondary\"></strong>","mobile":"綾瀬はるかさんと髙橋大輔さんが華麗なるスケート姿を披露！ 「コカ･コーラ」平昌2018冬季オリンピック応援キャンペーンPRイベントレポート<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">綾瀬はるかさんと髙橋大輔さんが華麗なるスケート姿を披露！ 「コカ･コーラ」平昌2018冬季オリンピック応援キャンペーンPRイベントレポート<strong class="theme-secondary"></strong></span>
+                     </a>
+                       <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/georgia_event" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"山田孝之さん、染谷将太さん、山本美月さんの「生まれ変わったらなりたい職業」とは？「ジョージア」新キャンペーン＆新CM発表会レポート<strong class=\"theme-secondary\"></strong>","tablet":"山田孝之さん、染谷将太さん、山本美月さんの「生まれ変わったらなりたい職業」とは？「ジョージア」新キャンペーン＆新CM発表会レポート<strong class=\"theme-secondary\"></strong>","mobile":"山田孝之さん、染谷将太さん、山本美月さんの「生まれ変わったらなりたい職業」とは？「ジョージア」新キャンペーン＆新CM発表会レポート<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">山田孝之さん、染谷将太さん、山本美月さんの「生まれ変わったらなりたい職業」とは？「ジョージア」新キャンペーン＆新CM発表会レポート<strong class="theme-secondary"></strong></span>
+                     </a>
+                       <li class="list-item">
+                              <span class="author">
+                                        <a class="theme-secondary" href="/content/journey/jp/ja/search.html?q=Journey編集部">Journey編集部</a>
+                                          </span><a href="/stories/tokyo2020_kosukekitajima-2" class="title">
+                       <span itemprop="name" data-override-size="" data-title='{"desktop":"北島康介さんが世界ランキング1位のクライマー・ 白石阿島選手に伝授した「勝者のメンタリティ」<strong class=\"theme-secondary\"></strong>","tablet":"北島康介さんが世界ランキング1位のクライマー・ 白石阿島選手に伝授した「勝者のメンタリティ」<strong class=\"theme-secondary\"></strong>","mobile":"北島康介さんが世界ランキング1位のクライマー・ 白石阿島選手に伝授した「勝者のメンタリティ」<strong class=\"theme-secondary\"></strong>"}'
+                       class="theme-font-main">北島康介さんが世界ランキング1位のクライマー・ 白石阿島選手に伝授した「勝者のメンタリティ」<strong class="theme-secondary"></strong></span>
+                     </a>
+                       </ul>
+    </div>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div></div>
+</div>
+    </div>
+
+</div>
+
+</div>
+</div>
+     <div class="row"> 
+        <div class="photoTextPar parsys">
+</div>
+<div class="parsys featuredFlicksPar">
+</div>
+<div class="imageLinkGalleryPar parsys"><div class="ImageLinkGallery section"><div class="snapshots">
+    <h4 class="headline-section">
+         <span itemprop="name" data-title='{
+            "desktop":"SNAP SHOTS<strong class=\"theme-secondary\"></strong>",
+            "tablet":"SNAP SHOTS<strong class=\"theme-secondary\"></strong>",
+            "mobile":"SNAP SHOTS<strong class=\"theme-secondary\"></strong>"}'>SNAP SHOTS<strong class="theme-secondary"></strong></span>
+    </h4>
+
+    <div class="sub-title theme-secondary">
+         <span itemprop="name" data-title='{
+            "desktop":"ハッピーをあげよう。<strong class=\"theme-secondary\"></strong>",
+            "tablet":"ハッピーをあげよう。<strong class=\"theme-secondary\"></strong>",
+            "mobile":"ハッピーをあげよう。<strong class=\"theme-secondary\"></strong>"}'>ハッピーをあげよう。<strong class="theme-secondary knockout-bgcolor"></strong></span>
+    </div>
+
+    <div class="summary theme-font-secondary">さわやかでハッピーな瞬間を切り取りました。 </div>
+
+    <div class="container clearfix">
+        <div class="image">
+                <a href="http://www.cocacola.co.jp/gallery" target="_blank">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2013/10/red-disc-f5ff2179.rendition.194.194.bmp",
+                        "tablet":"/content/dam/journey/jp/ja/global/2013/10/red-disc-f5ff2179.rendition.150.150.bmp",
+                        "mobile":"/content/dam/journey/jp/ja/global/2013/10/red-disc-f5ff2179.rendition.106.106.bmp"
+                    }' src="/content/dam/journey/jp/ja/global/2013/10/red-disc-f5ff2179.rendition.106.106.bmp" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#instagram-snapshots010">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/0523-001.rendition.191.191.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/0523-001.rendition.150.150.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/0523-001.rendition.106.106.jpg"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/0523-001.rendition.106.106.jpg" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots008">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/007.rendition.191.191.png",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/007.rendition.150.150.png",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/007.rendition.106.106.png"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/007.rendition.106.106.png" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots004">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/016.rendition.191.191.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/016.rendition.150.150.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/016.rendition.106.106.jpg"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/016.rendition.106.106.jpg" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots002">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/019.rendition.191.191.png",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/019.rendition.150.150.png",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/019.rendition.106.106.png"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/019.rendition.106.106.png" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots003">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/017.rendition.191.191.png",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/017.rendition.150.150.png",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/017.rendition.106.106.png"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/017.rendition.106.106.png" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots006">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/011.rendition.191.191.png",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/011.rendition.150.150.png",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/011.rendition.106.106.png"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/011.rendition.106.106.png" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots005">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/newbottle0001.rendition.191.191.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/newbottle0001.rendition.150.150.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/newbottle0001.rendition.106.106.jpg"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/newbottle0001.rendition.106.106.jpg" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots011">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/0808.rendition.191.191.jpeg",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/0808.rendition.150.150.jpeg",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/0808.rendition.106.106.jpeg"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/0808.rendition.106.106.jpeg" alt="" title=""/>
+                </a>
+            </div>
+        <div class="image">
+            <a href="/gallery#snapshots009">
+                 <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/global/2017/gallery/0314.rendition.191.191.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/global/2017/gallery/0314.rendition.150.150.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/global/2017/gallery/0314.rendition.106.106.jpg"
+                    }' src="/content/dam/journey/jp/ja/global/2017/gallery/0314.rendition.106.106.jpg" alt="" title=""/>
+                </a>
+            </div>
+        </div>
+
+    <a href="/gallery" id="load-more-button" class="button large">
+        <i class="icon-double-angle-right" aria-hidden="true"></i> <span class="sr-only">その他</span>その他</a>
+</div>
+</div>
+
+</div>
+<div class="parsys dynamicSectionLinksPar"><div class="section DynamicSectionLinksContainer"><div class="m-stay-sip">
+       <h4 class="headline-section">
+           <span itemprop="name" data-title='{"desktop":"Story<strong class=\"theme-secondary \"></strong>","tablet":"Story<strong class=\"theme-secondary\"></strong>","mobile":"Story<strong class=\"theme-secondary\"></strong>"}' class="">
+               Story<strong class="theme-secondary "></strong></span>
+	</h4>
+	<div class="dynamicSectionLinks DynamicSectionLinks"><div class="dsl-wrapper-publish">
+    <div class="hidden_callouts" data-desktop-items-page="4" data-mobile-items-page="1" data-tablet-items-page="3" ><div class="callout">
+            <a href="/topics/brand">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/brand-thumb-228-60-efef6ee0.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/brand-thumb-228-60-efef6ee0.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/brand-thumb-228-60-efef6ee0.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/brand-thumb-228-60-efef6ee0.rendition.226.60.jpg" alt="brand-thumb-228-60-efef6ee0.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/innovation_local-slim-bottle0815">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","tablet":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","mobile":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏"}'>
+                            ［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/salseman-mocktail0814">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","tablet":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","mobile":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日"}'>
+                            コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20180814-11">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"「コカ･コーラ」スリムボトル2018年 紅葉デザイン 8月20日（月）から期間限定で発売","tablet":"「コカ･コーラ」スリムボトル2018年 紅葉デザイン 8月20日（月）から期間限定で発売","mobile":"「コカ･コーラ」スリムボトル2018年 紅葉デザイン 8月20日（月）から期間限定で発売"}'>
+                            「コカ･コーラ」スリムボトル2018年 紅葉デザイン 8月20日（月）から期間限定で発売</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20180810-13">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"日本で唯一の、“にごり”のあるトクホ緑茶「綾鷹 特選茶」9月24日（月）新発売","tablet":"日本で唯一の、“にごり”のあるトクホ緑茶「綾鷹 特選茶」9月24日（月）新発売","mobile":"日本で唯一の、“にごり”のあるトクホ緑茶「綾鷹 特選茶」9月24日（月）新発売"}'>
+                            日本で唯一の、“にごり”のあるトクホ緑茶「綾鷹 特選茶」9月24日（月）新発売</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/brand" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/life-style">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-lifestyle-228-60-efefd551.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-lifestyle-228-60-efefd551.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-lifestyle-228-60-efefd551.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-lifestyle-228-60-efefd551.rendition.226.60.jpg" alt="thumb-lifestyle-228-60-efefd551.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/salseman-mocktail0814">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","tablet":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","mobile":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日"}'>
+                            コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/coca-cola-baseball-team0809">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？","tablet":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？","mobile":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？"}'>
+                            経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/tokyo2020_tokyoolympic-4_0807">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","tablet":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","mobile":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか"}'>
+                            東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/cocacolacafe09_0802">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん","tablet":"日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん","mobile":"日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん"}'>
+                            日本コカ･コーラの社食から　Vol.9 「コカ･コーラ」を使った肉うどん</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/life-style" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/vending-machine">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-vending-228-60-efefdcd0.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-vending-228-60-efefdcd0.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-vending-228-60-efefdcd0.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-vending-228-60-efefdcd0.rendition.226.60.jpg" alt="thumb-vending-228-60-efefdcd0.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/press-center/news-20180730-11">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"「Coke ON」アプリ1,000万ダウンロード突破","tablet":"「Coke ON」アプリ1,000万ダウンロード突破","mobile":"「Coke ON」アプリ1,000万ダウンロード突破"}'>
+                            「Coke ON」アプリ1,000万ダウンロード突破</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20180425-13">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"あるく、おトク。「Coke ON ウォーク」が登場！","tablet":"あるく、おトク。「Coke ON ウォーク」が登場！","mobile":"あるく、おトク。「Coke ON ウォーク」が登場！"}'>
+                            あるく、おトク。「Coke ON ウォーク」が登場！</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20180109-11">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"「カナダドライ ジンジャーエール ストロング」 1月15日（月）から全国で発売","tablet":"「カナダドライ ジンジャーエール ストロング」 1月15日（月）から全国で発売","mobile":"「カナダドライ ジンジャーエール ストロング」 1月15日（月）から全国で発売"}'>
+                            「カナダドライ ジンジャーエール ストロング」 1月15日（月）から全国で発売</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20170928-14">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"コカ･コーラ社の自動販売機がおトクに楽しくなる「Coke ON」アプリをリニューアル","tablet":"コカ･コーラ社の自動販売機がおトクに楽しくなる「Coke ON」アプリをリニューアル","mobile":"コカ･コーラ社の自動販売機がおトクに楽しくなる「Coke ON」アプリをリニューアル"}'>
+                            コカ･コーラ社の自動販売機がおトクに楽しくなる「Coke ON」アプリをリニューアル</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/vending-machine" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/business">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-business-228-60-efefe536.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-business-228-60-efefe536.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-business-228-60-efefe536.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-business-228-60-efefe536.rendition.226.60.jpg" alt="thumb-business-228-60-efefe536.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/innovation_local-slim-bottle0815">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","tablet":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","mobile":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏"}'>
+                            ［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/salseman-mocktail0814">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","tablet":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","mobile":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日"}'>
+                            コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/sustainability_meeting_sdgs0731">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン","tablet":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン","mobile":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン"}'>
+                            SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/share_a_coke_2018summer">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！","tablet":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！","mobile":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！"}'>
+                            全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/business" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/innovation">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-inovation-228-60-efefec58.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-inovation-228-60-efefec58.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-inovation-228-60-efefec58.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-inovation-228-60-efefec58.rendition.226.60.jpg" alt="thumb-inovation-228-60-efefec58.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/innovation_local-slim-bottle0815">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","tablet":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","mobile":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏"}'>
+                            ［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/salseman-mocktail0814">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","tablet":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日","mobile":"コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日"}'>
+                            コカ･コーラシステム名物社員密着ルポ「その3」 今では「街の有名人」！ 新橋をゆく女性営業員の1日</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/coca-cola-baseball-team0809">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？","tablet":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？","mobile":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？"}'>
+                            経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/tokyo2020_tokyoolympic-4_0807">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","tablet":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","mobile":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか"}'>
+                            東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/innovation" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/partner">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-partner-228-60-efeff29f.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-partner-228-60-efeff29f.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-partner-228-60-efeff29f.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-partner-228-60-efeff29f.rendition.226.60.jpg" alt="thumb-partner-228-60-efeff29f.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/tokyo2020_tokyoolympic-4_0807">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","tablet":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","mobile":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか"}'>
+                            東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/iceland_tvcm">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔","tablet":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔","mobile":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔"}'>
+                            聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/coca-cola_freestyle">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"米国で大人気！ 超・高機能なドリンク製造マシン 「コカ･コーラ フリースタイル」の正体","tablet":"米国で大人気！ 超・高機能なドリンク製造マシン 「コカ･コーラ フリースタイル」の正体","mobile":"米国で大人気！ 超・高機能なドリンク製造マシン 「コカ･コーラ フリースタイル」の正体"}'>
+                            米国で大人気！ 超・高機能なドリンク製造マシン 「コカ･コーラ フリースタイル」の正体</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/coca-cola_sports_marketing">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"FIFA ワールドカップTM開幕を機に振り返る。 コカ･コーラ社「スポーツマーケティング」の極意","tablet":"FIFA ワールドカップTM開幕を機に振り返る。 コカ･コーラ社「スポーツマーケティング」の極意","mobile":"FIFA ワールドカップTM開幕を機に振り返る。 コカ･コーラ社「スポーツマーケティング」の極意"}'>
+                            FIFA ワールドカップTM開幕を機に振り返る。 コカ･コーラ社「スポーツマーケティング」の極意</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/partner" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/people">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-people-228-60-efeff842.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-people-228-60-efeff842.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-people-228-60-efeff842.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-people-228-60-efeff842.rendition.226.60.jpg" alt="thumb-people-228-60-efeff842.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/innovation_local-slim-bottle0815">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","tablet":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏","mobile":"［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏"}'>
+                            ［コカ･コーラ社のパッケージデザイン開発「コカ･コーラ」スリムボトル篇］ “つい集めたくなる”限定デザイン誕生の舞台裏</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/millennial-voice-3">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？","tablet":"［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？","mobile":"［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？"}'>
+                            ［“コカ･コーラ社流”ミレニアル世代の働き方 第3回］仕事とプライベートに境目は不要。新しい働き方「ワークライフインテグレーション」とは？</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/female_workers">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」","tablet":"みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」","mobile":"みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」"}'>
+                            みんなが“スーパーウーマン”を目指さなくていい！ 日本コカ･コーラの女性社員が語る「本当のダイバーシティ」</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/coke_on_walk">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"26万台の自販機とつながるIoTアプリ「Coke ON」が描くデジタルマーケティングの未来とは？","tablet":"26万台の自販機とつながるIoTアプリ「Coke ON」が描くデジタルマーケティングの未来とは？","mobile":"26万台の自販機とつながるIoTアプリ「Coke ON」が描くデジタルマーケティングの未来とは？"}'>
+                            26万台の自販機とつながるIoTアプリ「Coke ON」が描くデジタルマーケティングの未来とは？</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/people" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/sustainability">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-sustain-228-60-efefffd6.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-sustain-228-60-efefffd6.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-sustain-228-60-efefffd6.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-sustain-228-60-efefffd6.rendition.226.60.jpg" alt="thumb-sustain-228-60-efefffd6.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/press-center/news-20180702-14-2">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"「コカ･コーラ サスティナビリティーレポート2018」を発行","tablet":"「コカ･コーラ サスティナビリティーレポート2018」を発行","mobile":"「コカ･コーラ サスティナビリティーレポート2018」を発行"}'>
+                            「コカ･コーラ サスティナビリティーレポート2018」を発行</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20180628-11-2">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"コカ･コーラシステムによる「ウォーター リプレニッシュメント アチーブメント」 について","tablet":"コカ･コーラシステムによる「ウォーター リプレニッシュメント アチーブメント」 について","mobile":"コカ･コーラシステムによる「ウォーター リプレニッシュメント アチーブメント」 について"}'>
+                            コカ･コーラシステムによる「ウォーター リプレニッシュメント アチーブメント」 について</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20180129-14-1">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"廃棄物ゼロ社会を目指して。日本コカ･コーラ、「容器の2030年ビジョン」を発表","tablet":"廃棄物ゼロ社会を目指して。日本コカ･コーラ、「容器の2030年ビジョン」を発表","mobile":"廃棄物ゼロ社会を目指して。日本コカ･コーラ、「容器の2030年ビジョン」を発表"}'>
+                            廃棄物ゼロ社会を目指して。日本コカ･コーラ、「容器の2030年ビジョン」を発表</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/press-center/news-20171117-14">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"日本コカ･コーラの女性活躍推進プロジェクト「第4回 5by20女性起業家支援シンポジウム」開催","tablet":"日本コカ･コーラの女性活躍推進プロジェクト「第4回 5by20女性起業家支援シンポジウム」開催","mobile":"日本コカ･コーラの女性活躍推進プロジェクト「第4回 5by20女性起業家支援シンポジウム」開催"}'>
+                            日本コカ･コーラの女性活躍推進プロジェクト「第4回 5by20女性起業家支援シンポジウム」開催</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/sustainability" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/history">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-history-228-60-effd0637.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-history-228-60-effd0637.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-history-228-60-effd0637.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-history-228-60-effd0637.rendition.226.60.jpg" alt="thumb-history-228-60-effd0637.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/coca-cola-baseball-team0809">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？","tablet":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？","mobile":"経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？"}'>
+                            経営難と人種差別に立ち向かった、ある球団の物語。 コカ･コーラ社が保有していた「プロ野球チーム」とは？</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/tokyo2020_tokyoolympic-4_0807">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","tablet":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか","mobile":"東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか"}'>
+                            東京オリンピックと「コカ･コーラ」第4回 あの「傑作ポスター」はいかにして生まれたか</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/share_a_coke_2018summer">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！","tablet":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！","mobile":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！"}'>
+                            全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/iceland_tvcm">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔","tablet":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔","mobile":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔"}'>
+                            聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/history" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    <div class="callout">
+            <a href="/topics/global">
+                <img data-src='{
+                        "desktop":"/content/dam/journey/jp/ja/private/icons/thumb-global-228-60-effd0cd9.jpg",
+                        "tablet":"/content/dam/journey/jp/ja/private/icons/thumb-global-228-60-effd0cd9.jpg",
+                        "mobile":"/content/dam/journey/jp/ja/private/icons/thumb-global-228-60-effd0cd9.rendition.226.60.jpg"
+                    }' src="/content/dam/journey/jp/ja/private/icons/thumb-global-228-60-effd0cd9.rendition.226.60.jpg" alt="thumb-global-228-60-effd0cd9.jpg" title=""/>
+            </a>
+            <ul class="theme-font-secondary">
+            <li class="item first"> <a href="/stories/sustainability_meeting_sdgs0731">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン","tablet":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン","mobile":"SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン"}'>
+                            SDGs（持続可能な開発目標）達成に向けて──コカ･コーラ社が掲げる、よりよい世界のためのビジョン</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/share_a_coke_2018summer">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！","tablet":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！","mobile":"全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！"}'>
+                            全米が熱中する“シェア”体験。 5度目の夏を迎えた「Share a Coke」キャンペーン その“超進化”の歴史をプレイバック！</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/iceland_tvcm">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔","tablet":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔","mobile":"聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔"}'>
+                            聞いてビックリ！FIFA ワールドカップロシアTMアイスランド代表ゴールキーパーのもう一つの顔</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="item "> <a href="/stories/e-commerce">
+					<div class="title">
+                            <span itemprop="name" data-title='{"desktop":"小売業界にイノベーションを！ 米コカ･コーラ社が進める“eコマース革命”6つのポイント","tablet":"小売業界にイノベーションを！ 米コカ･コーラ社が進める“eコマース革命”6つのポイント","mobile":"小売業界にイノベーションを！ 米コカ･コーラ社が進める“eコマース革命”6つのポイント"}'>
+                            小売業界にイノベーションを！ 米コカ･コーラ社が進める“eコマース革命”6つのポイント</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+            <a href="/topics/global" class="more-link"><i class="icon-double-angle-right" aria-hidden="true"></i>&nbsp;その他のストーリーはこちら<span class="sr-only">その他のストーリーはこちら</span></a>
+        </div>
+    </div>
+
+    <div class="dynamic-section-links-container callouts-container royalSlider rsDefault "></div>
+    <div id="stayandsip-slideshow-nav-left" class="side-navigation-colum left"> <i class="icon-chevron icon-chevron-left" aria-hidden="true"></i>
+    </div>
+    <div id="stayandsip-slideshow-nav-right" class="side-navigation-colum right"> <i class="icon-chevron icon-chevron-right" aria-hidden="true"></i>
+    </div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="TwoWide"><!--  Add c:if tag around all this div based on the property from dictionary -->
+
+<div id="social-stats" class="no-count">
+    <div class="shadow"></div>
+    <h4 class="headline-section theme-main-subtitle ">
+        <span itemprop="name" data-title='{"desktop":"<span class="nobr">コカ･コーラ 公式アカウント</span> <strong class=\"theme-secondary\"></strong>","tablet":"<span class="nobr">コカ･コーラ 公式アカウント</span> <strong class=\"theme-secondary\"></strong>","mobile":"<span class="nobr">コカ･コーラ 公式アカウント</span> <strong class=\"theme-secondary\"></strong>"}'>
+            <span class="nobr">コカ･コーラ 公式アカウント</span> <strong class="theme-secondary knockout-bgcolor"></strong></span>
+    </h4>
+    <div class="container" data-network-count="3" 
+    	 data-social-count-service-url="https://uc8sgmjzag.execute-api.us-east-1.amazonaws.com/prod/getSocialCounts"
+    	 data-social-count-request='{"site":"JP_JA","trueCache":"true","socialNetworks":[{"networkName":"FACEBOOK","accountName":"cocacolapark"},{"networkName":"TWITTER","accountName":"cocacolajapan"},{"networkName":"YOUTUBE","accountName":"cocacolapark"}]}'>
+        <div data-order="1" class="statistic">
+                <div class="icon">
+                    <a href="https://www.facebook.com/cocacolapark" target="_blank" title="">
+                        <img src="/content/dam/journey/gl/gl/icons/facebook-icon.png" width="35" height="35" alt="facebook-icon.png"/>
+                    </a>
+                </div>
+                <div class="text-wrapper FACEBOOK &nbsp; cocacolapark">
+                    <div class="value"></div>
+                    <div class="term">いいね！</div>
+                </div>
+            </div>
+        <div data-order="2" class="statistic">
+                <div class="icon">
+                    <a href="https://twitter.com/CocaColaJapan" target="_blank" title="">
+                        <img src="/content/dam/journey/gl/gl/icons/socialicon-twit.png" width="35" height="35" alt="socialicon-twit.png"/>
+                    </a>
+                </div>
+                <div class="text-wrapper TWITTER &nbsp; cocacolajapan">
+                    <div class="value"></div>
+                    <div class="term">フォロワー</div>
+                </div>
+            </div>
+        <div data-order="3" class="statistic">
+                <div class="icon">
+                    <a href="https://www.youtube.com/c/cocacolajapan" target="_blank" title="">
+                        <img src="/content/dam/journey/gl/gl/icons/youtube-icon.png" width="35" height="35" alt="youtube-icon.png"/>
+                    </a>
+                </div>
+                <div class="text-wrapper YOUTUBE &nbsp; cocacolapark">
+                    <div class="value"></div>
+                    <div class="term">回再生</div>
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+<div class="Flash"><!--googleoff: all-->
+<footer
+    data-masthead-url="/content/journey/jp/ja/_jcr_content.mastheadauthors.json/content/journey/jp/ja/homepage.json"
+    data-notifications-ui="/content/journey/jp/ja/_jcr_content.newsLetterFlyOut.html/content/journey/jp/ja/homepage.html"
+    data-subscribe="/content/journey/jp/ja/homepage/_jcr_content/footer.subscribe.json"
+    data-search-url="http://www.coca-colacompany.com/search" 
+    data-newsletter-visit="true" 
+      data-get-popup= "/content/journey/jp/ja/_jcr_content.newsLetterSignUpPopUp.html/content/journey/jp/ja/homepage.html"
+    
+    >
+    
+    <nav class="top-level antialiased" role="navigation" aria-label="footer_TopMenu">
+        <ul>
+        <li class="first">
+	      <a href="/homepage" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"トップ<strong class=\"theme-secondary\"></strong>",
+						"tablet":"トップ<strong class=\"theme-secondary\"></strong>",
+						"mobile":"トップ<strong class=\"theme-secondary\"></strong>"}'>
+							
+						トップ<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/stories" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"ストーリー<strong class=\"theme-secondary\"></strong>",
+						"tablet":"ストーリー<strong class=\"theme-secondary\"></strong>",
+						"mobile":"ストーリー<strong class=\"theme-secondary\"></strong>"}'>
+							
+						ストーリー<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/brands" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"製品情報<strong class=\"theme-secondary\"></strong>",
+						"tablet":"製品情報<strong class=\"theme-secondary\"></strong>",
+						"mobile":"製品情報<strong class=\"theme-secondary\"></strong>"}'>
+							
+						製品情報<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/company-information" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"企業情報<strong class=\"theme-secondary\"></strong>",
+						"tablet":"企業情報<strong class=\"theme-secondary\"></strong>",
+						"mobile":"企業情報<strong class=\"theme-secondary\"></strong>"}'>
+							
+						企業情報<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/sustainability" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"<span style="font-size: 60%;">サスティナビリティー</span><strong class=\"theme-secondary\"></strong>",
+						"tablet":"<span style="font-size: 60%;">サスティナビリティー</span><strong class=\"theme-secondary\"></strong>",
+						"mobile":"<span style="font-size: 60%;">サスティナビリティー</span><strong class=\"theme-secondary\"></strong>"}'>
+							
+						<span style="font-size: 60%;">サスティナビリティー</span><strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/press-center" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"<span style="font-size: 70%;">プレスセンター</span><strong class=\"theme-secondary\"></strong>",
+						"tablet":"<span style="font-size: 70%;">プレスセンター</span><strong class=\"theme-secondary\"></strong>",
+						"mobile":"<span style="font-size: 70%;">プレスセンター</span><strong class=\"theme-secondary\"></strong>"}'>
+							
+						<span style="font-size: 70%;">プレスセンター</span><strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/vending-machine" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"自動販売機<strong class=\"theme-secondary\"></strong>",
+						"tablet":"自動販売機<strong class=\"theme-secondary\"></strong>",
+						"mobile":"自動販売機<strong class=\"theme-secondary\"></strong>"}'>
+							
+						自動販売機<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="https://j.cocacola.co.jp/info/" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"お客様相談室<strong class=\"theme-secondary\"></strong>",
+						"tablet":"お客様相談室<strong class=\"theme-secondary\"></strong>",
+						"mobile":"お客様相談室<strong class=\"theme-secondary\"></strong>"}'>
+							
+						お客様相談室<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            </ul>
+    </nav>
+	<nav class="secondary antialiased" role="navigation" aria-label="footer_SecondaryMenu">		
+        <ul>
+        <li class="first">
+		<a href="/press-center">
+          <span itemprop="name" data-override-size="" data-title='{"desktop":"プレスセンター","tablet":"プレスセンター","mobile":"プレスセンター"}' class="">プレスセンター</span>
+            </a>
+         </li>
+        <li><a href="javascript:;" id="masthead_link"><span class="open"></span>編集スタッフ</a></li>
+            </ul>		
+        <div id="masthead">
+            <h4 class="heading-small"></h4>
+            <a href="javascript:;" id="masthead_close_link">Close<span></span></a>
+            <ul class="authors"></ul>
+            <div class="author-social-links"></div>
+        </div>
+    </nav>
+	<div id="footer_notifications" data-loaded="false">
+	    <span class='loading'>Loading...</span>
+	</div>
+	<div class="footer-wedge-1"></div>
+	<div id="link-lists" class="antialiased" role="navigation" aria-label="LinkList">
+			<div class="column column-first">
+				<section>
+					<h5>関連サイト</h5>
+					<ul>
+			<li class="">
+			<a href="https://secure-j.cocacola.co.jp/member/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"コカ･コーラ会員サイト","tablet":"コカ･コーラ会員サイト","mobile":"コカ･コーラ会員サイト"}' class="">コカ･コーラ会員サイト</span>
+				</a>
+			  </li>
+			<li class="">
+			<a href="https://secure.cocacola.jp/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"コカ･コーラ ブランドサイト","tablet":"コカ･コーラ ブランドサイト","mobile":"コカ･コーラ ブランドサイト"}' class="">コカ･コーラ ブランドサイト</span>
+				</a>
+			  </li>
+			<li class="">
+			<a href="https://www.cocacola-zaidan.jp/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"コカ･コーラ教育･環境財団","tablet":"コカ･コーラ教育･環境財団","mobile":"コカ･コーラ教育･環境財団"}' class="">コカ･コーラ教育･環境財団</span>
+				</a>
+			  </li>
+			<li class="last">
+			<a href="/beverage-institute">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"飲料アカデミー","tablet":"飲料アカデミー","mobile":"飲料アカデミー"}' class="">飲料アカデミー</span>
+				</a>
+			  </li>
+			</ul>
+				</section>
+			</div>
+			<div class="column column-second">
+				<section>
+					<h5>トピック</h5>
+					<ul>
+				<li class="">
+						<a href="/topics/brand">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"ブランド","tablet":"ブランド","mobile":"ブランド"}' class="">ブランド</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/life-style">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"ライフスタイル","tablet":"ライフスタイル","mobile":"ライフスタイル"}' class="">ライフスタイル</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/vending-machine">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"自動販売機","tablet":"自動販売機","mobile":"自動販売機"}' class="">自動販売機</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/business">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"ビジネス","tablet":"ビジネス","mobile":"ビジネス"}' class="">ビジネス</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/innovation">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"イノベーション","tablet":"イノベーション","mobile":"イノベーション"}' class="">イノベーション</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/partner">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"パートナー","tablet":"パートナー","mobile":"パートナー"}' class="">パートナー</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/people">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"ピープル","tablet":"ピープル","mobile":"ピープル"}' class="">ピープル</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/sustainability">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"サスティナビリティー","tablet":"サスティナビリティー","mobile":"サスティナビリティー"}' class="">サスティナビリティー</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/history">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"歴史・文化","tablet":"歴史・文化","mobile":"歴史・文化"}' class="">歴史・文化</span>
+						</a>
+					</li>
+				<li class="">
+						<a href="/topics/global">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"グローバル","tablet":"グローバル","mobile":"グローバル"}' class="">グローバル</span>
+						</a>
+					</li>
+				<li class="last">
+						<a href="/company-information/ja-company-history">
+						<span itemprop="name" data-override-size="" data-title='{"desktop":"日本におけるコカ･コーラビジネスの歴史","tablet":"日本におけるコカ･コーラビジネスの歴史","mobile":"日本におけるコカ･コーラビジネスの歴史"}' class="">日本におけるコカ･コーラビジネスの歴史</span>
+						</a>
+					</li>
+				</ul>
+				</section>
+			</div>
+			<div class="column column-third">
+				<section>
+					<h5>製品情報</h5>
+					<ul>
+					<li class="">							
+							<a href="/brands/new-products">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"新製品","tablet":"新製品","mobile":"新製品"}' class="">新製品</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/coca-cola">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"コカ･コーラ","tablet":"コカ･コーラ","mobile":"コカ･コーラ"}' class="">コカ･コーラ</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"","tablet":"","mobile":""}' class=""></span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"","tablet":"","mobile":""}' class=""></span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/georgia">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"ジョージア","tablet":"ジョージア","mobile":"ジョージア"}' class="">ジョージア</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/sokenbicha">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"爽健美茶","tablet":"爽健美茶","mobile":"爽健美茶"}' class="">爽健美茶</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/aquarius">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"アクエリアス","tablet":"アクエリアス","mobile":"アクエリアス"}' class="">アクエリアス</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/fanta">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"ファンタ","tablet":"ファンタ","mobile":"ファンタ"}' class="">ファンタ</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/i-lohas">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"い･ろ･は･す","tablet":"い･ろ･は･す","mobile":"い･ろ･は･す"}' class="">い･ろ･は･す</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/ayataka">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"綾鷹","tablet":"綾鷹","mobile":"綾鷹"}' class="">綾鷹</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/sprite">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"スプライト","tablet":"スプライト","mobile":"スプライト"}' class="">スプライト</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/schweppes">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"シュウェップス","tablet":"シュウェップス","mobile":"シュウェップス"}' class="">シュウェップス</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/canada-dry">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"カナダドライ","tablet":"カナダドライ","mobile":"カナダドライ"}' class="">カナダドライ</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/mate-tea">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"太陽のマテ茶","tablet":"太陽のマテ茶","mobile":"太陽のマテ茶"}' class="">太陽のマテ茶</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/kochakaden">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"紅茶花伝","tablet":"紅茶花伝","mobile":"紅茶花伝"}' class="">紅茶花伝</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"","tablet":"","mobile":""}' class=""></span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/karadameguricha">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"からだ巡茶","tablet":"からだ巡茶","mobile":"からだ巡茶"}' class="">からだ巡茶</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"","tablet":"","mobile":""}' class=""></span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"","tablet":"","mobile":""}' class=""></span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"","tablet":"","mobile":""}' class=""></span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/real">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"リアルゴールド","tablet":"リアルゴールド","mobile":"リアルゴールド"}' class="">リアルゴールド</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/minute-maid">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"ミニッツメイド","tablet":"ミニッツメイド","mobile":"ミニッツメイド"}' class="">ミニッツメイド</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/other-brands">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"その他ブランド","tablet":"その他ブランド","mobile":"その他ブランド"}' class="">その他ブランド</span>
+							</a>
+						</li>
+					<li class="">							
+							<a href="/brands/all-products">
+								<span itemprop="name" data-override-size="" data-title='{"desktop":"全製品一覧","tablet":"全製品一覧","mobile":"全製品一覧"}' class="">全製品一覧</span>
+							</a>
+						</li>
+					<li class="last">
+						<a href="/brands">
+							<span itemprop="name" data-override-size="" data-title='{"desktop":"製品情報トップ &raquo;","tablet":"製品情報トップ &raquo;","mobile":"製品情報トップ &raquo;"}' class="">製品情報トップ &raquo;</span>
+							</a>
+						</li>
+					</ul>
+				</section>
+			</div>
+			<div class="column column-fourth">
+				<section class="about-col">
+					<h5 class="gray title hidden-phone">サイトのご利用に関して</h5>
+					<h5 class="gray">
+				<a href="/company-information/privacy-policy" class="normal">
+					<span itemprop="name" data-title='{"desktop":"プライバシーポリシー","tablet":"プライバシーポリシー","mobile":"プライバシーポリシー"}'>プライバシーポリシー</span>
+					  </a>
+					</h5>
+					 <h5 class="gray">
+				<a href="/company-information/terms-of-use" class="normal">
+					<span itemprop="name" data-title='{"desktop":"サイトポリシー","tablet":"サイトポリシー","mobile":"サイトポリシー"}'>サイトポリシー</span>
+					  </a>
+					</h5>
+					 <h5 class="gray">
+				<a href="/company-information/social-media-guidelines" class="normal">
+					<span itemprop="name" data-title='{"desktop":"ソーシャルメディアガイドライン ","tablet":"ソーシャルメディアガイドライン ","mobile":"ソーシャルメディアガイドライン "}'>ソーシャルメディアガイドライン </span>
+					  </a>
+					</h5>
+					 <h5 class="gray">
+				<a href="/company-information/coca-cola-social" class="normal">
+					<span itemprop="name" data-title='{"desktop":"日本コカ・コーラ公式アカウント一覧","tablet":"日本コカ・コーラ公式アカウント一覧","mobile":"日本コカ・コーラ公式アカウント一覧"}'>日本コカ・コーラ公式アカウント一覧</span>
+					  </a>
+					</h5>
+					 <h5 class="gray">
+				<a href="/stories/requirements" class="normal">
+					<span itemprop="name" data-title='{"desktop":"ご利用環境について ","tablet":"ご利用環境について ","mobile":"ご利用環境について "}'>ご利用環境について </span>
+					  </a>
+					</h5>
+					 </section>
+			</div>
+			<div class="clearfix"></div>
+		</div>	
+    <div class="footer-wedge-2"></div>
+	<div class="hidden-phone corporate-footer-text antialiased">
+        </div>
+    <p class="copyright gray antialiased">COPYRIGHT (C) <nobr>COCA-COLA</nobr>(JAPAN)COMPANY,LIMITED</p>
+    <div class="clearfix"></div>
+     
+</footer>
+ <!--googleon: all--></div>
+</div><!--  prevent it is reloaded under author mode -->
+<script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/main.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/globalize/en_US.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/components/all.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/components/extra.min.js"></script>
+
+</div>
+       
+
+<script id="_lognos_script_">
+// begin edit block
+var _lognos = {params: {}, paramOrder: []};
+    _lognos.params.key1 = "";
+    _lognos.params.key2 = "";
+    _lognos.params.key3 = "";
+    _lognos.params.key4 = "";
+    _lognos.params.key5 = "";
+    _lognos.params.key6 = "";
+    _lognos.params.key7 = "";
+    _lognos.params.key8 = "";
+    _lognos.params.key9 = "";
+    _lognos.params.key10 = "";
+    // end edit block
+
+    // don't edit
+    _lognos.paramOrder = ["key1","key2","key3","key4","key5","key6","key7","key8","key9","key10"];
+
+(function(a,b){
+    a.async = true; a.id = "_lognos_script_";
+    a.src = '//img.macromill.com/js/us000879apz/5000014363-70/lognos.js';
+    b.parentNode.insertBefore(a,b);
+}(document.createElement('script'),document.getElementsByTagName('script')[0]));
+</script>
+
+<script>
+// Removes red overlay from country map
+$('#regional-country-selector > ul.link-list > li > a.sub-menu-link').click(function() {
+      setTimeout(function() 
+      {
+        $('#global-regional-map > div > div > div.map-container > div.overlay').remove();
+      }, 500);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+{"products_data": [
+
+    {
+        "cat1":"acure made",
+        "cat2":"果汁",
+        "name":"青森りんご　王林",
+        "url":"/products/2018/ourin.html",
+        "thumbnail_url":"/products/images/item/ourin_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"天然水",
+        "name":"From AQUA　甘夏みかん×ミント",
+        "url":"/products/2018/fromaqua_amanatsumikan.html",
+        "thumbnail_url":"/products/images/item/fromaqua_amanatsumikan_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"その他",
+        "name":"贅沢バニラミルクメロンミックス",
+        "url":"/products/2018/vanillamilk_melon.html",
+        "thumbnail_url":"/products/images/item/vanillamilk_melon_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"果汁",
+        "name":"さわやかな甘さと酸味　果汁40％のはっさく",
+        "url":"/products/2018/hassaku.html",
+        "thumbnail_url":"/products/images/item/hassaku_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"お茶",
+        "name":"信州韃靼そば茶",
+        "url":"/products/2018/sobacha02.html",
+        "thumbnail_url":"/products/images/item/sobacha02_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"果汁",
+        "name":"福島あかつき　桃",
+        "url":"/products/2018/momo.html",
+        "thumbnail_url":"/products/images/item/momo_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"その他",
+        "name":"贅沢バニラミルク 関東・栃木レモン",
+        "url":"/products/2018/vanillamilk_lemonmix.html",
+        "thumbnail_url":"/products/images/item/2018/vanillamilk_lemonmix_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"果汁",
+        "name":"青森りんご　ふじ",
+        "url":"/products/2018/apple_fuji.html",
+        "thumbnail_url":"/products/images/item/apple_fuji_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"果汁",
+        "name":"青森りんご　ストレート",
+        "url":"/products/2016/apple_straight.html",
+        "thumbnail_url":"/products/images/item/apple_straight_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"天然水",
+        "name":"FromAQUA",
+        "url":"/products/fromaqua.html",
+        "thumbnail_url":"/products/images/item/fromaqua_tn.jpg"
+    },
+    {
+        "cat1":"通常商品",
+        "cat2":"天然水",
+        "name":"FromAQUA 10LBIB",
+        "url":"/products/fromaqua_10lbib.html",
+        "thumbnail_url":"/products/images/item/fromaqua_10lbib_tn.jpg"
+    },
+    {
+        "cat1":"通常商品",
+        "cat2":"天然水",
+        "name":"FromAQUA 2L",
+        "url":"/products/fromaqua_2l.html",
+        "thumbnail_url":"/products/images/item/fromaqua_2l_tn.jpg"
+    },
+    {
+        "cat1":"通常商品",
+        "cat2":"天然水",
+        "name":"白神山地の天然水",
+        "url":"/products/shirakamitennensui.html",
+        "thumbnail_url":"/products/images/item/shirakamitennensui_tn.jpg"
+    },
+    {
+        "cat1":"acure made",
+        "cat2":"お茶",
+        "name":"朝の茶事",
+        "url":"/products/asanochaji.html",
+        "thumbnail_url":"/products/images/item/asanochaji_tn.jpg"
+    },
+    {
+        "cat1":"通常商品",
+        "cat2":"その他",
+        "name":"リポビタン　ビズ",
+        "url":"/products/lipovitan_biz.html",
+        "thumbnail_url":"/products/images/item/lipovitan_biz_tn.jpg"
+    }
+
+]}

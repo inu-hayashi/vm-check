@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+.navbar {
+    border-radius: 0;
+    min-height: 50px;
+
+    .navbar-brand {
+        font-size: 1rem;
+        height: auto;
+        padding: 0 10px;
+    }
+}
+
+.navbar-toggler {
+    margin: 0 !important;
+}
+
+.btn-block {
+    // width: 80%;
+}
+
+h1 {
+    padding-top: 60px;
+}
+
+.demo-headline {
+    padding: 0;
+
+    h1 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+
+        small {
+            font-size: 1rem;
+            line-height: 1.2;
+            font-weight: normal;
+            color: #333;
+        }
+    }
+}
+
+.ddata {
+    // background-color: #3498DB;
+    margin: 1rem;
+    width: 100%;
+    display: flex;
+    border: 1px solid #ddd;
+    // max-height: 120px;
+    .dimage{
+        img{
+        max-height: 80px;
+    }
+
+    }
+
+
+    .col-9 {
+        padding: 0;
+    }
+
+    .product {
+        // padding: 1rem;
+        width: 100%;
+
+        .card {
+            border: none;
+            display: none;
+            padding: 0;
+        }
+
+        h2 {
+            font-weight: normal;
+            background-color: #3498DB;
+            font-size: 1rem;
+            color: #fff;
+            padding: 1rem;
+            margin-bottom: 0;
+            overflow: hidden;
+            margin-top: 0;
+            height: 80px;
+
+            &:after {
+                font-family: "Glyphicons Halflings";
+                content: "▼";
+                float: right;
+                transition: all 300ms 0s ease;
+            }
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+
+    // .ac:after {
+
+    //    transform: rotate(90deg);
+    // }
+
+    p {
+        padding: 1rem;
+        background-color: #ECF0F1;
+
+        span {
+            display: block;
+            font-weight: bold;
+        }
+    }
+}
+
+    .side_white{
+.col-3.dimage {
+    padding: 0;
+    overflow: hidden;
+    }
+    img {
+    max-height: 80px;
+    padding: 0;
+    margin-left: -10px;
+    max-width: none;
+}
+    }
+
+footer {
+    .text-center {
+        margin: 0;
+        padding-bottom: 1rem;
+    }
+}
