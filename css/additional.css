@@ -1,79 +1,115 @@
 @charset "UTF-8";
 .navbar {
   border-radius: 0;
-  min-height: 50px; }
-  .navbar .navbar-brand {
-    font-size: 1rem;
-    height: auto;
-    padding: 0 10px; }
+  min-height: 50px;
+}
+
+.navbar .navbar-brand {
+  font-size: 1rem;
+  height: auto;
+  padding: 0 10px;
+}
 
 .navbar-toggler {
-  margin: 0 !important; }
+  margin: 0 !important;
+}
 
 h1 {
-  padding-top: 60px; }
+  padding-top: 60px;
+}
 
 .demo-headline {
-  padding: 0; }
-  .demo-headline h1 {
-    font-size: 2rem;
-    line-height: 2.5rem; }
-    .demo-headline h1 small {
-      font-size: 1rem;
-      line-height: 1.2;
-      font-weight: normal;
-      color: #333; }
+  padding: 0;
+}
+
+.demo-headline h1 {
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+
+.demo-headline h1 small {
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: normal;
+  color: #333;
+}
 
 .ddata {
   margin: 1rem;
   width: 100%;
   display: flex;
-  border: 1px solid #ddd; }
-  .ddata .dimage img {
-    max-height: 80px; }
-  .ddata .col-9 {
-    padding: 0; }
-  .ddata .product {
-    width: 100%; }
-    .ddata .product .card {
-      border: none;
-      display: none;
-      padding: 0; }
-    .ddata .product h2 {
-      font-weight: normal;
-      background-color: #3498DB;
-      font-size: 1rem;
-      color: #fff;
-      padding: 1rem;
-      margin-bottom: 0;
-      overflow: hidden;
-      margin-top: 0;
-      height: 80px; }
-      .ddata .product h2:after {
-        font-family: "Glyphicons Halflings";
-        content: "▼";
-        float: right;
-        transition: all 300ms 0s ease; }
-      .ddata .product h2:hover {
-        cursor: pointer; }
-  .ddata p {
-    padding: 1rem;
-    background-color: #ECF0F1; }
-    .ddata p span {
-      display: block;
-      font-weight: bold; }
+  border: 1px solid #ddd;
+}
+
+.ddata .dimage img {
+  max-height: 80px;
+}
+
+.ddata .col-9 {
+  padding: 0;
+}
+
+.ddata .product {
+  width: 100%;
+}
+
+.ddata .product .card {
+  border: none;
+  display: none;
+  padding: 0;
+}
+
+.ddata .product h2 {
+  font-weight: normal;
+  background-color: #3498DB;
+  font-size: 1rem;
+  color: #fff;
+  padding: 1rem;
+  margin-bottom: 0;
+  overflow: hidden;
+  margin-top: 0;
+  height: 80px;
+}
+
+.ddata .product h2:after {
+  font-family: "Glyphicons Halflings";
+  content: "▼";
+  float: right;
+  transition: all 300ms 0s ease;
+}
+
+.ddata .product h2:hover {
+  cursor: pointer;
+}
+
+.ddata p {
+  padding: 1rem;
+  background-color: #ECF0F1;
+}
+
+.ddata p span {
+  display: block;
+  font-weight: bold;
+}
 
 .side_white .col-3.dimage {
   padding: 0;
-  overflow: hidden; }
+  overflow: hidden;
+}
+
 .side_white img {
   max-height: 80px;
   padding: 0;
   margin-left: -10px;
-  max-width: none; }
+  max-width: none;
+}
 
 footer .text-center {
   margin: 0;
-  padding-bottom: 1rem; }
+  padding-bottom: 1rem;
+}
 
-/*# sourceMappingURL=additional.css.map */
+.contact iframe {
+  display: block;
+  margin: auto;
+}
