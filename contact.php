@@ -1,12 +1,3 @@
-<?php
-$jsonUrl = "../json/suntory.json";
-if(file_exists($jsonUrl)){
-$json = file_get_contents($jsonUrl);
-$json = mb_convert_encoding($json, 'UTF8', 'ASCII,JIS,UTF-8,EUC-JP,SJIS-WIN');
-$obj = json_decode($json,true);
-// $obj = $obj["res"]["blogData"];
-}
-?>
 <!DOCTYPE html>
 <html lang="ja">
   <head>
@@ -16,12 +7,12 @@ $obj = json_decode($json,true);
     <meta name="description" content="自動販売機に入っている商品の内容物を買う前に事前にチェック!アレルギーや苦手な甘味料などがある際に活用ください。(変更されている場合もあるので飲む前には念の為ご自身でご確認ください)" />
     <meta name="viewport" content="width=device-width">
     <!-- Loading Bootstrap -->
-    <link href="../css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
     <!-- Loading Flat UI -->
-    <link href="../css/flat-ui.css" rel="stylesheet">
-    <link href="../css/demo.css" rel="stylesheet">
-    <link href="../css/additional.css" rel="stylesheet">
-    <link rel="shortcut icon" href="../favicon.ico">
+    <link href="css/flat-ui.css" rel="stylesheet">
+    <link href="css/demo.css" rel="stylesheet">
+    <link href="css/additional.css" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
 <script src="dist/js/vendor/html5shiv.js"></script>
@@ -44,35 +35,9 @@ $obj = json_decode($json,true);
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/service/vm/include/nav.php'); ?>
     <!-- /nav -->
     <div class="container">
-      <h1 class="demo-section-title">サントリーブランドの商品・内容物一覧
-      </h1>
-      <p>この内容はデータ取得時のものです。変更されている場合もありますので、飲む前には念の為ご自身でご確認ください
-      </p>
-      <div class="row demo-row">
-        <?php foreach($obj as $key => $val): ?>
-        <div class="ddata">
-          <div class="col-3 dimage">
-            <img src="<?php echo $val["filePath"]; ?>" onerror="this.src='../images/vm/no-image.png'">
-          </div>
-          <div class="product">
-            <h2>
-              <?php echo $val["title"]; ?>
-            </h2>
-              <div class="card card-body">
-                <p>
-                  <span>原材料名:
-                  </span>
-                  <?php echo $val["data"]; ?>
-                </p>
-                <p>
-                  <span>アレルギー:
-                  </span>
-                  <?php echo $val["allr"]; ?>
-                </p>
-              </div>
-          </div>
-        </div>
-        <?php endforeach; ?>
+      <h1 class="demo-section-title">お問い合わせページ</h1>
+      <div class="row demo-row contact">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe4f548poDxghQZvKMO0vG93yGIttFet1ydDS61uW7qXyfXSg/viewform?embedded=true" width="640" height="659" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
       </div>
       <!-- /row -->
       <p>このサイトが行っているのはデータの収集のみです。商品についての質問は各メーカーにご連絡ください
@@ -89,9 +54,9 @@ $obj = json_decode($json,true);
     </script>
     <script src="http://vjs.zencdn.net/6.6.3/video.js">
     </script>
-    <script src="../scripts/flat-ui.js">
+    <script src="scripts/flat-ui.js">
     </script>
-    <script src="../scripts/application.js">
+    <script src="scripts/application.js">
     </script>
     <script>
       $(function(){
@@ -104,3 +69,4 @@ $obj = json_decode($json,true);
     </script>
   </body>
 </html>
+​
