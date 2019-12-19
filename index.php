@@ -4,8 +4,8 @@
   <title>自販売機の原材料・甘味料チェッカー</title>
   <meta property="og:title" content="自販売機の原材料・甘味料チェッカー" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://abrd.site/service/vm/" />
-  <meta property="og:image" content="https://abrd.site/service/vm/docs/assets/images/vm/top.png" />
+  <meta property="og:url" content="http://mofolio.starfree.jp/service/vm/index.php" />
+  <!-- <meta property="og:image" content="https://abrd.site/service/vm/docs/assets/images/vm/top.png" /> -->
   <meta property="og:site_name" content="自販売機の原材料・甘味料チェッカー" />
   <meta property="og:description" content="自動販売機に入っている商品の原材料を買う前にチェック。アレルギーや苦手な甘味料などがある際に活用ください。" />
   <!-- ※ Twitter共通設定 -->
